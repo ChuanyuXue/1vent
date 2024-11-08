@@ -21,6 +21,6 @@ First make sure Github __Actions are enabled__ in your forked repository. Then g
 - `OPENAI_API_KEY`: Your OpenAI API key
 - `WAKATIME_API_KEY`: Your WakaTime API key
 
-You also need to go __Actions__ -> General -> Workflow permissions -> Add the __Read and write permissions__ to save and analyze history coding activity.
+To save and analyze history coding activity, you also need to go __Actions__ -> General -> Workflow permissions -> Add the __Read and write permissions__. Change the timezone and GPT model verion in `src/config.py`.
 
 For Gmail users, generate an app-specific password [here](https://myaccount.google.com/apppasswords).
