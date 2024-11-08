@@ -42,6 +42,49 @@
           "percent": 0.03
         }
       }
+    },
+    {
+      "date": "2024-11-07",
+      "weekday": "Thursday",
+      "total_hours": 5.9,
+      "categories": {
+        "Coding": "5.90",
+        "Writing Docs": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "4 hrs 22 mins",
+          "percent": 73.97
+        },
+        "Python": {
+          "hours": "1 hr 10 mins",
+          "percent": 19.83
+        },
+        "Markdown": {
+          "hours": "10 mins",
+          "percent": 2.84
+        },
+        "YAML": {
+          "hours": "5 mins",
+          "percent": 1.45
+        },
+        "Text": {
+          "hours": "4 mins",
+          "percent": 1.38
+        },
+        "Git Config": {
+          "hours": "1 min",
+          "percent": 0.45
+        },
+        "JSON": {
+          "hours": "9 secs",
+          "percent": 0.04
+        },
+        "C": {
+          "hours": "5 secs",
+          "percent": 0.03
+        }
+      }
     }
   ]
 }
