@@ -1,0 +1,5 @@
+openai
+pyyaml
+requests
+html2text
+pytz

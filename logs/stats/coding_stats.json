@@ -1,0 +1,47 @@
+{
+  "daily_records": [
+    {
+      "date": "2024-11-08",
+      "weekday": "Friday",
+      "total_hours": 5.27,
+      "categories": {
+        "Coding": "5.27",
+        "Writing Docs": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "4 hrs 12 mins",
+          "percent": 79.83
+        },
+        "Python": {
+          "hours": "45 mins",
+          "percent": 14.34
+        },
+        "Markdown": {
+          "hours": "10 mins",
+          "percent": 3.19
+        },
+        "Text": {
+          "hours": "3 mins",
+          "percent": 1.12
+        },
+        "YAML": {
+          "hours": "2 mins",
+          "percent": 0.95
+        },
+        "Git Config": {
+          "hours": "1 min",
+          "percent": 0.5
+        },
+        "JSON": {
+          "hours": "9 secs",
+          "percent": 0.05
+        },
+        "C": {
+          "hours": "5 secs",
+          "percent": 0.03
+        }
+      }
+    }
+  ]
+}

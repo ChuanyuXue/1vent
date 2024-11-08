@@ -1,0 +1,1 @@
+Configuration error: 'WakaTime API key not found in environment variables'
