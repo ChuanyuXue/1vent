@@ -1,10 +1,10 @@
-# 1vents
+# 1vent
 
 Automated daily coding activity tracking and analysis powered by WakaTime API and OpenAI
 
 ## Overview
 
-1vents is a tool that automatically tracks your coding activity using WakaTime, analyzes the data, and provides personalized insights through OpenAI. It runs daily via GitHub Actions and can optionally email you the results.
+1vent is a tool that automatically tracks your coding activity using WakaTime, analyzes the data, and provides personalized insights through OpenAI. It runs daily via GitHub Actions and can optionally email you the results.
 
 ## Usage
 
