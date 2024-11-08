@@ -5,19 +5,7 @@ Please analyze the following coding activity log and provide me some insights an
 
 **Note**: You also more focus on my today's coding activity, because I will be using the suggestions to improve my productivity everyday. Also it is fine that I am not coding actively on Saturday and Sunday, so on these days you can focus more on the trends and previous patterns, and on weekdays you should more focus on today's activity. There might be a large amount of time on "Other" languages. This is because sometimes the language is not detected. You should not focus on them and only focus on the languages that I am actively using.
 
-**Knowledge**: There are some time management tools that I like to use. You should see which ONE is the most suitable for me to improve my productivity. Here are the tools:
-- Pomodoro Technique
-- Eisenhower Matrix
-- 2-minute rule
-- The 80/20 rule
-- Eat that frog
-- ABCDE method
-- Time blocking
-- Getting things done
-- MSCW method
-- 3-3-3 method
-- Warren Buffett 5/25 rule
-
+**Goal**: My current goal is to have a 2hr coding focus session, and I prefer to have it in the morning. Sometimes I can have 1 or 2 more 2hrs coding sessions when I am busy with deadline. I also want to find out if there is anyway to improve my efficiency in coding and research, please review the data records carefully and provide any advices you believe helpful.
 
 **Formatting**: Make sure you write in a pure text format without any markdown formatting. You can also use more emojis to make the analysis more engaging. Don't make it too long, make it around 150 words.
 
