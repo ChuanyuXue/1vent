@@ -3,43 +3,42 @@
     {
       "date": "2024-11-08",
       "weekday": "Friday",
-      "total_hours": 5.27,
+      "total_hours": 5.2,
       "categories": {
-        "Coding": "5.27",
-        "Writing Docs": "0.00"
+        "Coding": "5.20"
       },
       "languages": {
         "Other": {
-          "hours": "4 hrs 12 mins",
-          "percent": 79.83
+          "hours": "4 hrs 26 mins",
+          "percent": 85.18
         },
-        "Python": {
-          "hours": "45 mins",
-          "percent": 14.34
+        "TeX": {
+          "hours": "30 mins",
+          "percent": 9.88
         },
-        "Markdown": {
+        "Groff": {
           "hours": "10 mins",
-          "percent": 3.19
-        },
-        "Text": {
-          "hours": "3 mins",
-          "percent": 1.12
-        },
-        "YAML": {
-          "hours": "2 mins",
-          "percent": 0.95
+          "percent": 3.38
         },
         "Git Config": {
-          "hours": "1 min",
-          "percent": 0.5
+          "hours": "4 mins",
+          "percent": 1.37
         },
-        "JSON": {
-          "hours": "9 secs",
-          "percent": 0.05
+        "BibTeX": {
+          "hours": "26 secs",
+          "percent": 0.14
         },
-        "C": {
-          "hours": "5 secs",
-          "percent": 0.03
+        "Python": {
+          "hours": "3 secs",
+          "percent": 0.02
+        },
+        "OpenEdge ABL": {
+          "hours": "2 secs",
+          "percent": 0.01
+        },
+        "BST": {
+          "hours": "2 secs",
+          "percent": 0.01
         }
       }
     },
