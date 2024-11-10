@@ -84,6 +84,40 @@
           "percent": 0.03
         }
       }
+    },
+    {
+      "date": "2024-11-09",
+      "weekday": "Saturday",
+      "total_hours": 2.63,
+      "categories": {
+        "Coding": "2.63"
+      },
+      "languages": {
+        "Swift": {
+          "hours": "1 hr 51 mins",
+          "percent": 70.62
+        },
+        "Other": {
+          "hours": "43 mins",
+          "percent": 27.59
+        },
+        "YAML": {
+          "hours": "1 min",
+          "percent": 0.84
+        },
+        "HTML": {
+          "hours": "49 secs",
+          "percent": 0.53
+        },
+        "Markdown": {
+          "hours": "21 secs",
+          "percent": 0.22
+        },
+        "JSON": {
+          "hours": "17 secs",
+          "percent": 0.19
+        }
+      }
     }
   ]
 }
