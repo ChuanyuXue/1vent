@@ -118,6 +118,20 @@
           "percent": 0.19
         }
       }
+    },
+    {
+      "date": "2024-11-10",
+      "weekday": "Sunday",
+      "total_hours": 1.58,
+      "categories": {
+        "Coding": "1.58"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr 35 mins",
+          "percent": 100.0
+        }
+      }
     }
   ]
 }
