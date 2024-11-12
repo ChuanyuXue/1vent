@@ -132,6 +132,49 @@
           "percent": 100.0
         }
       }
+    },
+    {
+      "date": "2024-11-11",
+      "weekday": "Monday",
+      "total_hours": 5.2,
+      "categories": {
+        "Coding": "5.20",
+        "Writing Docs": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "4 hrs 20 mins",
+          "percent": 83.43
+        },
+        "Swift": {
+          "hours": "26 mins",
+          "percent": 8.53
+        },
+        "C++": {
+          "hours": "11 mins",
+          "percent": 3.71
+        },
+        "Text": {
+          "hours": "9 mins",
+          "percent": 2.99
+        },
+        "YAML": {
+          "hours": "3 mins",
+          "percent": 1.02
+        },
+        "Python": {
+          "hours": "45 secs",
+          "percent": 0.24
+        },
+        "Objective-C": {
+          "hours": "13 secs",
+          "percent": 0.07
+        },
+        "Go": {
+          "hours": "1 sec",
+          "percent": 0.01
+        }
+      }
     }
   ]
 }
