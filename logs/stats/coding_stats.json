@@ -175,6 +175,44 @@
           "percent": 0.01
         }
       }
+    },
+    {
+      "date": "2024-11-12",
+      "weekday": "Tuesday",
+      "total_hours": 5.93,
+      "categories": {
+        "Coding": "5.93"
+      },
+      "languages": {
+        "Other": {
+          "hours": "4 hrs 20 mins",
+          "percent": 73.04
+        },
+        "Python": {
+          "hours": "1 hr 6 mins",
+          "percent": 18.77
+        },
+        "Swift": {
+          "hours": "23 mins",
+          "percent": 6.72
+        },
+        "JSON": {
+          "hours": "2 mins",
+          "percent": 0.65
+        },
+        "Text": {
+          "hours": "2 mins",
+          "percent": 0.6
+        },
+        "TeX": {
+          "hours": "40 secs",
+          "percent": 0.19
+        },
+        "Component Pascal": {
+          "hours": "8 secs",
+          "percent": 0.04
+        }
+      }
     }
   ]
 }
