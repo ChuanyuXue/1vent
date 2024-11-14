@@ -213,6 +213,36 @@
           "percent": 0.04
         }
       }
+    },
+    {
+      "date": "2024-11-13",
+      "weekday": "Wednesday",
+      "total_hours": 6.5,
+      "categories": {
+        "Coding": "6.50"
+      },
+      "languages": {
+        "Other": {
+          "hours": "5 hrs 35 mins",
+          "percent": 85.88
+        },
+        "TeX": {
+          "hours": "38 mins",
+          "percent": 9.88
+        },
+        "Groff": {
+          "hours": "14 mins",
+          "percent": 3.6
+        },
+        "Io": {
+          "hours": "2 mins",
+          "percent": 0.63
+        },
+        "Image (svg)": {
+          "hours": "1 sec",
+          "percent": 0.0
+        }
+      }
     }
   ]
 }
