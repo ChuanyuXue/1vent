@@ -243,6 +243,48 @@
           "percent": 0.0
         }
       }
+    },
+    {
+      "date": "2024-11-14",
+      "weekday": "Thursday",
+      "total_hours": 7.53,
+      "categories": {
+        "Coding": "7.53"
+      },
+      "languages": {
+        "Other": {
+          "hours": "3 hrs 31 mins",
+          "percent": 46.83
+        },
+        "TeX": {
+          "hours": "1 hr 53 mins",
+          "percent": 25.11
+        },
+        "Python": {
+          "hours": "58 mins",
+          "percent": 12.84
+        },
+        "Groff": {
+          "hours": "37 mins",
+          "percent": 8.39
+        },
+        "Text": {
+          "hours": "15 mins",
+          "percent": 3.34
+        },
+        "XML": {
+          "hours": "13 mins",
+          "percent": 3.02
+        },
+        "Bash": {
+          "hours": "1 min",
+          "percent": 0.42
+        },
+        "Io": {
+          "hours": "15 secs",
+          "percent": 0.06
+        }
+      }
     }
   ]
 }
