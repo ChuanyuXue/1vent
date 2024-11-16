@@ -285,6 +285,36 @@
           "percent": 0.06
         }
       }
+    },
+    {
+      "date": "2024-11-15",
+      "weekday": "Friday",
+      "total_hours": 1.57,
+      "categories": {
+        "Coding": "1.57"
+      },
+      "languages": {
+        "Other": {
+          "hours": "52 mins",
+          "percent": 54.92
+        },
+        "C++": {
+          "hours": "24 mins",
+          "percent": 25.98
+        },
+        "TeX": {
+          "hours": "11 mins",
+          "percent": 12.31
+        },
+        "Groff": {
+          "hours": "4 mins",
+          "percent": 5.09
+        },
+        "Objective-C": {
+          "hours": "1 min",
+          "percent": 1.69
+        }
+      }
     }
   ]
 }
