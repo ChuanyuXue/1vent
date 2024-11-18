@@ -342,6 +342,32 @@
           "percent": 0.07
         }
       }
+    },
+    {
+      "date": "2024-11-17",
+      "weekday": "Sunday",
+      "total_hours": 1.77,
+      "categories": {
+        "Coding": "1.77"
+      },
+      "languages": {
+        "Swift": {
+          "hours": "1 hr 26 mins",
+          "percent": 80.69
+        },
+        "Other": {
+          "hours": "20 mins",
+          "percent": 19.19
+        },
+        "XML": {
+          "hours": "6 secs",
+          "percent": 0.1
+        },
+        "JSON": {
+          "hours": "1 sec",
+          "percent": 0.02
+        }
+      }
     }
   ]
 }
