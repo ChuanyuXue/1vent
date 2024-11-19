@@ -368,6 +368,36 @@
           "percent": 0.02
         }
       }
+    },
+    {
+      "date": "2024-11-18",
+      "weekday": "Monday",
+      "total_hours": 4.73,
+      "categories": {
+        "Coding": "4.73"
+      },
+      "languages": {
+        "Swift": {
+          "hours": "2 hrs 22 mins",
+          "percent": 50.11
+        },
+        "C++": {
+          "hours": "1 hr 26 mins",
+          "percent": 30.48
+        },
+        "Other": {
+          "hours": "39 mins",
+          "percent": 13.94
+        },
+        "Objective-C": {
+          "hours": "8 mins",
+          "percent": 2.9
+        },
+        "Diff": {
+          "hours": "7 mins",
+          "percent": 2.57
+        }
+      }
     }
   ]
 }
