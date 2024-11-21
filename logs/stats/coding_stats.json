@@ -452,6 +452,13 @@
           "percent": 0.01
         }
       }
+    },
+    {
+      "date": "2024-11-20",
+      "weekday": "Wednesday",
+      "total_hours": 0.0,
+      "categories": {},
+      "languages": {}
     }
   ]
 }
