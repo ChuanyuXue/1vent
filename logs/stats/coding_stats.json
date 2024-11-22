@@ -459,6 +459,68 @@
       "total_hours": 0.0,
       "categories": {},
       "languages": {}
+    },
+    {
+      "date": "2024-11-21",
+      "weekday": "Thursday",
+      "total_hours": 5.32,
+      "categories": {
+        "Coding": "5.32"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 51 mins",
+          "percent": 53.52
+        },
+        "JavaScript": {
+          "hours": "49 mins",
+          "percent": 15.46
+        },
+        "C": {
+          "hours": "27 mins",
+          "percent": 8.68
+        },
+        "HTML": {
+          "hours": "22 mins",
+          "percent": 7.02
+        },
+        "Swift": {
+          "hours": "15 mins",
+          "percent": 4.96
+        },
+        "CSS": {
+          "hours": "7 mins",
+          "percent": 2.48
+        },
+        "JSON": {
+          "hours": "7 mins",
+          "percent": 2.41
+        },
+        "Python": {
+          "hours": "6 mins",
+          "percent": 1.94
+        },
+        "TypeScript": {
+          "hours": "5 mins",
+          "percent": 1.72
+        },
+        "TSConfig": {
+          "hours": "3 mins",
+          "percent": 1.01
+        },
+        "Markdown": {
+          "hours": "1 min",
+          "percent": 0.62
+        },
+        "Diff": {
+          "hours": "24 secs",
+          "percent": 0.13
+        },
+        "Makefile": {
+          "hours": "10 secs",
+          "percent": 0.06
+        }
+      }
     }
   ]
 }
