@@ -803,6 +803,48 @@
           "percent": 0.02
         }
       }
+    },
+    {
+      "date": "2024-11-29",
+      "weekday": "Friday",
+      "total_hours": 4.9,
+      "categories": {
+        "Coding": "4.90"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 56 mins",
+          "percent": 60.1
+        },
+        "C": {
+          "hours": "1 hr 30 mins",
+          "percent": 30.7
+        },
+        "Swift": {
+          "hours": "18 mins",
+          "percent": 6.4
+        },
+        "Bash": {
+          "hours": "4 mins",
+          "percent": 1.58
+        },
+        "Python": {
+          "hours": "2 mins",
+          "percent": 0.94
+        },
+        "JSON": {
+          "hours": "28 secs",
+          "percent": 0.16
+        },
+        "Objective-C": {
+          "hours": "18 secs",
+          "percent": 0.11
+        },
+        "TypeScript": {
+          "hours": "3 secs",
+          "percent": 0.02
+        }
+      }
     }
   ]
 }
