@@ -885,6 +885,37 @@
           "percent": 1.96
         }
       }
+    },
+    {
+      "date": "2024-12-02",
+      "weekday": "Monday",
+      "total_hours": 4.65,
+      "categories": {
+        "Coding": "4.15",
+        "Browsing": "0.50"
+      },
+      "languages": {
+        "Other": {
+          "hours": "3 hrs 38 mins",
+          "percent": 77.94
+        },
+        "C": {
+          "hours": "40 mins",
+          "percent": 14.59
+        },
+        "C++": {
+          "hours": "18 mins",
+          "percent": 6.52
+        },
+        "Swift": {
+          "hours": "2 mins",
+          "percent": 0.94
+        },
+        "Text": {
+          "hours": "1 sec",
+          "percent": 0.01
+        }
+      }
     }
   ]
 }
