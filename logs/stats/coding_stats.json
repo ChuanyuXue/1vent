@@ -946,6 +946,45 @@
           "percent": 0.05
         }
       }
+    },
+    {
+      "date": "2024-12-04",
+      "weekday": "Wednesday",
+      "total_hours": 2.85,
+      "categories": {
+        "Coding": "2.23",
+        "Meeting": "0.62"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 9 mins",
+          "percent": 75.5
+        },
+        "Python": {
+          "hours": "16 mins",
+          "percent": 9.87
+        },
+        "C": {
+          "hours": "12 mins",
+          "percent": 7.1
+        },
+        "C++": {
+          "hours": "9 mins",
+          "percent": 5.61
+        },
+        "Makefile": {
+          "hours": "2 mins",
+          "percent": 1.5
+        },
+        "Bash": {
+          "hours": "41 secs",
+          "percent": 0.4
+        },
+        "CSV": {
+          "hours": "1 sec",
+          "percent": 0.02
+        }
+      }
     }
   ]
 }
