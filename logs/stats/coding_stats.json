@@ -985,6 +985,20 @@
           "percent": 0.02
         }
       }
+    },
+    {
+      "date": "2024-12-05",
+      "weekday": "Thursday",
+      "total_hours": 0.45,
+      "categories": {
+        "Coding": "0.45"
+      },
+      "languages": {
+        "Other": {
+          "hours": "27 mins",
+          "percent": 100.0
+        }
+      }
     }
   ]
 }
