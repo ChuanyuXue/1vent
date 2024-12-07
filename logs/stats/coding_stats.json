@@ -999,6 +999,21 @@
           "percent": 100.0
         }
       }
+    },
+    {
+      "date": "2024-12-06",
+      "weekday": "Friday",
+      "total_hours": 0.87,
+      "categories": {
+        "Browsing": "0.83",
+        "Coding": "0.02"
+      },
+      "languages": {
+        "Other": {
+          "hours": "52 mins",
+          "percent": 100.0
+        }
+      }
     }
   ]
 }
