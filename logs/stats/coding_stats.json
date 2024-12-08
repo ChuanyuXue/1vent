@@ -1014,6 +1014,37 @@
           "percent": 100.0
         }
       }
+    },
+    {
+      "date": "2024-12-07",
+      "weekday": "Saturday",
+      "total_hours": 4.65,
+      "categories": {
+        "Coding": "3.43",
+        "Browsing": "1.22"
+      },
+      "languages": {
+        "Other": {
+          "hours": "3 hrs 40 mins",
+          "percent": 78.68
+        },
+        "C": {
+          "hours": "43 mins",
+          "percent": 15.64
+        },
+        "Python": {
+          "hours": "8 mins",
+          "percent": 3.07
+        },
+        "Diff": {
+          "hours": "6 mins",
+          "percent": 2.24
+        },
+        "Objective-C": {
+          "hours": "1 min",
+          "percent": 0.37
+        }
+      }
     }
   ]
 }
