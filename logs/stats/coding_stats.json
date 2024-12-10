@@ -1073,6 +1073,42 @@
           "percent": 0.02
         }
       }
+    },
+    {
+      "date": "2024-12-09",
+      "weekday": "Monday",
+      "total_hours": 4.7,
+      "categories": {
+        "Browsing": "2.57",
+        "Coding": "2.13",
+        "Writing Docs": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "3 hrs 53 mins",
+          "percent": 82.48
+        },
+        "Python": {
+          "hours": "31 mins",
+          "percent": 11.16
+        },
+        "C": {
+          "hours": "10 mins",
+          "percent": 3.87
+        },
+        "Text": {
+          "hours": "6 mins",
+          "percent": 2.35
+        },
+        "Swift": {
+          "hours": "13 secs",
+          "percent": 0.08
+        },
+        "Objective-C": {
+          "hours": "9 secs",
+          "percent": 0.06
+        }
+      }
     }
   ]
 }
