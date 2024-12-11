@@ -1109,6 +1109,26 @@
           "percent": 0.06
         }
       }
+    },
+    {
+      "date": "2024-12-10",
+      "weekday": "Tuesday",
+      "total_hours": 3.98,
+      "categories": {
+        "Browsing": "2.67",
+        "Coding": "1.08",
+        "Writing Docs": "0.20"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 7 mins",
+          "percent": 53.19
+        },
+        "Python": {
+          "hours": "1 hr 51 mins",
+          "percent": 46.81
+        }
+      }
     }
   ]
 }
