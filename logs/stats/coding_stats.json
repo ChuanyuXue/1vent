@@ -1180,6 +1180,44 @@
           "percent": 0.72
         }
       }
+    },
+    {
+      "date": "2024-12-13",
+      "weekday": "Friday",
+      "total_hours": 5.12,
+      "categories": {
+        "Coding": "5.12"
+      },
+      "languages": {
+        "Other": {
+          "hours": "3 hrs 33 mins",
+          "percent": 69.28
+        },
+        "C": {
+          "hours": "1 hr 21 mins",
+          "percent": 26.57
+        },
+        "TeX": {
+          "hours": "7 mins",
+          "percent": 2.33
+        },
+        "Python": {
+          "hours": "3 mins",
+          "percent": 1.2
+        },
+        "Assembly": {
+          "hours": "1 min",
+          "percent": 0.45
+        },
+        "Text": {
+          "hours": "27 secs",
+          "percent": 0.15
+        },
+        "Diff": {
+          "hours": "2 secs",
+          "percent": 0.01
+        }
+      }
     }
   ]
 }
