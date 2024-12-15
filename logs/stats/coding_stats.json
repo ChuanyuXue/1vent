@@ -1218,6 +1218,33 @@
           "percent": 0.01
         }
       }
+    },
+    {
+      "date": "2024-12-14",
+      "weekday": "Saturday",
+      "total_hours": 4.08,
+      "categories": {
+        "Browsing": "2.88",
+        "Coding": "1.18"
+      },
+      "languages": {
+        "Other": {
+          "hours": "3 hrs 22 mins",
+          "percent": 82.54
+        },
+        "C": {
+          "hours": "30 mins",
+          "percent": 12.41
+        },
+        "TypeScript": {
+          "hours": "12 mins",
+          "percent": 4.97
+        },
+        "Swift": {
+          "hours": "11 secs",
+          "percent": 0.08
+        }
+      }
     }
   ]
 }
