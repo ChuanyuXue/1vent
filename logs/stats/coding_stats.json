@@ -1297,6 +1297,37 @@
           "percent": 0.01
         }
       }
+    },
+    {
+      "date": "2024-12-17",
+      "weekday": "Tuesday",
+      "total_hours": 2.13,
+      "categories": {
+        "Coding": "1.40",
+        "Browsing": "0.73"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr 18 mins",
+          "percent": 60.62
+        },
+        "C": {
+          "hours": "49 mins",
+          "percent": 38.39
+        },
+        "Python": {
+          "hours": "1 min",
+          "percent": 0.86
+        },
+        "TypeScript": {
+          "hours": "7 secs",
+          "percent": 0.1
+        },
+        "Diff": {
+          "hours": "2 secs",
+          "percent": 0.03
+        }
+      }
     }
   ]
 }
