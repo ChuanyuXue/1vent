@@ -1409,6 +1409,37 @@
           "percent": 32.13
         }
       }
+    },
+    {
+      "date": "2024-12-21",
+      "weekday": "Saturday",
+      "total_hours": 4.38,
+      "categories": {
+        "Coding": "4.28",
+        "Writing Docs": "0.08"
+      },
+      "languages": {
+        "Other": {
+          "hours": "3 hrs 1 min",
+          "percent": 68.86
+        },
+        "TeX": {
+          "hours": "50 mins",
+          "percent": 19.24
+        },
+        "TypeScript": {
+          "hours": "30 mins",
+          "percent": 11.75
+        },
+        "Swift": {
+          "hours": "15 secs",
+          "percent": 0.1
+        },
+        "JSON": {
+          "hours": "8 secs",
+          "percent": 0.05
+        }
+      }
     }
   ]
 }
