@@ -1458,6 +1458,33 @@
           "percent": 38.78
         }
       }
+    },
+    {
+      "date": "2024-12-23",
+      "weekday": "Monday",
+      "total_hours": 6.75,
+      "categories": {
+        "Coding": "5.50",
+        "Browsing": "1.23"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 41 mins",
+          "percent": 39.8
+        },
+        "TeX": {
+          "hours": "1 hr 44 mins",
+          "percent": 25.92
+        },
+        "Swift": {
+          "hours": "1 hr 12 mins",
+          "percent": 17.98
+        },
+        "TypeScript": {
+          "hours": "1 hr 6 mins",
+          "percent": 16.3
+        }
+      }
     }
   ]
 }
