@@ -1485,6 +1485,28 @@
           "percent": 16.3
         }
       }
+    },
+    {
+      "date": "2024-12-24",
+      "weekday": "Tuesday",
+      "total_hours": 4.52,
+      "categories": {
+        "Coding": "4.52"
+      },
+      "languages": {
+        "TypeScript": {
+          "hours": "2 hrs 32 mins",
+          "percent": 56.34
+        },
+        "Other": {
+          "hours": "1 hr 58 mins",
+          "percent": 43.57
+        },
+        "Io": {
+          "hours": "13 secs",
+          "percent": 0.08
+        }
+      }
     }
   ]
 }
