@@ -1533,6 +1533,57 @@
           "percent": 0.03
         }
       }
+    },
+    {
+      "date": "2024-12-26",
+      "weekday": "Thursday",
+      "total_hours": 5.45,
+      "categories": {
+        "Browsing": "2.75",
+        "Coding": "2.68"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 25 mins",
+          "percent": 44.43
+        },
+        "JavaScript": {
+          "hours": "1 hr 21 mins",
+          "percent": 24.79
+        },
+        "JSON": {
+          "hours": "52 mins",
+          "percent": 15.96
+        },
+        "TypeScript": {
+          "hours": "42 mins",
+          "percent": 13.08
+        },
+        "Git Config": {
+          "hours": "3 mins",
+          "percent": 1.11
+        },
+        "TOML": {
+          "hours": "1 min",
+          "percent": 0.58
+        },
+        "HTML": {
+          "hours": "5 secs",
+          "percent": 0.03
+        },
+        "CSS": {
+          "hours": "2 secs",
+          "percent": 0.01
+        },
+        "TSConfig": {
+          "hours": "1 sec",
+          "percent": 0.01
+        },
+        "Markdown": {
+          "hours": "1 sec",
+          "percent": 0.01
+        }
+      }
     }
   ]
 }
