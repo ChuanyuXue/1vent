@@ -1648,6 +1648,28 @@
           "percent": 12.03
         }
       }
+    },
+    {
+      "date": "2024-12-30",
+      "weekday": "Monday",
+      "total_hours": 6.08,
+      "categories": {
+        "Coding": "6.08"
+      },
+      "languages": {
+        "Swift": {
+          "hours": "5 hrs 49 mins",
+          "percent": 95.62
+        },
+        "Other": {
+          "hours": "15 mins",
+          "percent": 4.27
+        },
+        "JSON": {
+          "hours": "23 secs",
+          "percent": 0.11
+        }
+      }
     }
   ]
 }
