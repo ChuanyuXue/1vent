@@ -1804,6 +1804,41 @@
           "percent": 1.72
         }
       }
+    },
+    {
+      "date": "2025-01-07",
+      "weekday": "Tuesday",
+      "total_hours": 3.82,
+      "categories": {
+        "Coding": "3.82",
+        "Building": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr 47 mins",
+          "percent": 46.71
+        },
+        "TeX": {
+          "hours": "1 hr 4 mins",
+          "percent": 27.92
+        },
+        "Swift": {
+          "hours": "54 mins",
+          "percent": 23.72
+        },
+        "TypeScript": {
+          "hours": "3 mins",
+          "percent": 1.6
+        },
+        "JSON": {
+          "hours": "4 secs",
+          "percent": 0.03
+        },
+        "JavaScript": {
+          "hours": "1 sec",
+          "percent": 0.01
+        }
+      }
     }
   ]
 }
