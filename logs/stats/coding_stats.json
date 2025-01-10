@@ -1858,6 +1858,13 @@
           "percent": 31.24
         }
       }
+    },
+    {
+      "date": "2025-01-09",
+      "weekday": "Thursday",
+      "total_hours": 0.0,
+      "categories": {},
+      "languages": {}
     }
   ]
 }
