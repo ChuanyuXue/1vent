@@ -1865,6 +1865,33 @@
       "total_hours": 0.0,
       "categories": {},
       "languages": {}
+    },
+    {
+      "date": "2025-01-10",
+      "weekday": "Friday",
+      "total_hours": 3.0,
+      "categories": {
+        "Coding": "2.12",
+        "Browsing": "0.87"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr 55 mins",
+          "percent": 64.33
+        },
+        "TeX": {
+          "hours": "59 mins",
+          "percent": 33.07
+        },
+        "Swift": {
+          "hours": "4 mins",
+          "percent": 2.56
+        },
+        "BibTeX": {
+          "hours": "3 secs",
+          "percent": 0.03
+        }
+      }
     }
   ]
 }
