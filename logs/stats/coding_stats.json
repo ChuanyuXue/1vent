@@ -1892,6 +1892,28 @@
           "percent": 0.03
         }
       }
+    },
+    {
+      "date": "2025-01-11",
+      "weekday": "Saturday",
+      "total_hours": 2.02,
+      "categories": {
+        "Coding": "2.02"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr",
+          "percent": 49.86
+        },
+        "TeX": {
+          "hours": "1 hr",
+          "percent": 49.38
+        },
+        "BibTeX": {
+          "hours": "55 secs",
+          "percent": 0.76
+        }
+      }
     }
   ]
 }
