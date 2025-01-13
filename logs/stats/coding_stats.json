@@ -1914,6 +1914,33 @@
           "percent": 0.76
         }
       }
+    },
+    {
+      "date": "2025-01-12",
+      "weekday": "Sunday",
+      "total_hours": 3.03,
+      "categories": {
+        "Coding": "3.02",
+        "Building": "0.02"
+      },
+      "languages": {
+        "Swift": {
+          "hours": "1 hr 47 mins",
+          "percent": 58.84
+        },
+        "Other": {
+          "hours": "49 mins",
+          "percent": 26.97
+        },
+        "TeX": {
+          "hours": "25 mins",
+          "percent": 14.07
+        },
+        "BibTeX": {
+          "hours": "13 secs",
+          "percent": 0.12
+        }
+      }
     }
   ]
 }
