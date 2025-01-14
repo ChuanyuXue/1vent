@@ -1941,6 +1941,45 @@
           "percent": 0.12
         }
       }
+    },
+    {
+      "date": "2025-01-13",
+      "weekday": "Monday",
+      "total_hours": 2.97,
+      "categories": {
+        "Coding": "2.97",
+        "Building": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr 28 mins",
+          "percent": 49.64
+        },
+        "Swift": {
+          "hours": "1 hr 1 min",
+          "percent": 34.28
+        },
+        "TeX": {
+          "hours": "28 mins",
+          "percent": 15.94
+        },
+        "OpenEdge ABL": {
+          "hours": "5 secs",
+          "percent": 0.05
+        },
+        "BibTeX": {
+          "hours": "5 secs",
+          "percent": 0.05
+        },
+        "BST": {
+          "hours": "2 secs",
+          "percent": 0.02
+        },
+        "JavaScript": {
+          "hours": "1 sec",
+          "percent": 0.01
+        }
+      }
     }
   ]
 }
