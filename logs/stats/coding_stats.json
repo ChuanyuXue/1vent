@@ -1980,6 +1980,44 @@
           "percent": 0.01
         }
       }
+    },
+    {
+      "date": "2025-01-14",
+      "weekday": "Tuesday",
+      "total_hours": 3.9,
+      "categories": {
+        "Coding": "3.90"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 31 mins",
+          "percent": 64.78
+        },
+        "C": {
+          "hours": "1 hr 18 mins",
+          "percent": 33.62
+        },
+        "Text": {
+          "hours": "2 mins",
+          "percent": 0.9
+        },
+        "Diff": {
+          "hours": "1 min",
+          "percent": 0.61
+        },
+        "Groff": {
+          "hours": "4 secs",
+          "percent": 0.04
+        },
+        "Objective-C": {
+          "hours": "4 secs",
+          "percent": 0.03
+        },
+        "Python": {
+          "hours": "2 secs",
+          "percent": 0.02
+        }
+      }
     }
   ]
 }
