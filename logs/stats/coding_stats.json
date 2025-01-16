@@ -2018,6 +2018,41 @@
           "percent": 0.02
         }
       }
+    },
+    {
+      "date": "2025-01-15",
+      "weekday": "Wednesday",
+      "total_hours": 3.63,
+      "categories": {
+        "Coding": "3.63",
+        "Building": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr 46 mins",
+          "percent": 48.44
+        },
+        "Swift": {
+          "hours": "1 hr 6 mins",
+          "percent": 30.51
+        },
+        "C": {
+          "hours": "29 mins",
+          "percent": 13.55
+        },
+        "Markdown": {
+          "hours": "9 mins",
+          "percent": 4.53
+        },
+        "Python": {
+          "hours": "3 mins",
+          "percent": 1.73
+        },
+        "Makefile": {
+          "hours": "2 mins",
+          "percent": 1.23
+        }
+      }
     }
   ]
 }
