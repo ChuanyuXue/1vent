@@ -2053,6 +2053,49 @@
           "percent": 1.23
         }
       }
+    },
+    {
+      "date": "2025-01-16",
+      "weekday": "Thursday",
+      "total_hours": 3.67,
+      "categories": {
+        "Coding": "3.60",
+        "Building": "0.05"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr 40 mins",
+          "percent": 45.5
+        },
+        "Swift": {
+          "hours": "1 hr 12 mins",
+          "percent": 32.91
+        },
+        "TypeScript": {
+          "hours": "43 mins",
+          "percent": 19.88
+        },
+        "CSS": {
+          "hours": "2 mins",
+          "percent": 1.23
+        },
+        "XML": {
+          "hours": "38 secs",
+          "percent": 0.3
+        },
+        "C": {
+          "hours": "14 secs",
+          "percent": 0.11
+        },
+        "Markdown": {
+          "hours": "4 secs",
+          "percent": 0.04
+        },
+        "JSON": {
+          "hours": "2 secs",
+          "percent": 0.02
+        }
+      }
     }
   ]
 }
