@@ -2096,6 +2096,29 @@
           "percent": 0.02
         }
       }
+    },
+    {
+      "date": "2025-01-17",
+      "weekday": "Friday",
+      "total_hours": 1.98,
+      "categories": {
+        "Coding": "1.98",
+        "Building": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr 24 mins",
+          "percent": 70.98
+        },
+        "Swift": {
+          "hours": "34 mins",
+          "percent": 28.99
+        },
+        "JSON": {
+          "hours": "1 sec",
+          "percent": 0.03
+        }
+      }
     }
   ]
 }
