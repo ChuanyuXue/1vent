@@ -2221,6 +2221,62 @@
           "percent": 0.11
         }
       }
+    },
+    {
+      "date": "2025-01-22",
+      "weekday": "Wednesday",
+      "total_hours": 6.2,
+      "categories": {
+        "Coding": "3.47",
+        "Browsing": "2.73",
+        "Building": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "3 hrs 44 mins",
+          "percent": 60.33
+        },
+        "C": {
+          "hours": "1 hr 19 mins",
+          "percent": 21.33
+        },
+        "Swift": {
+          "hours": "31 mins",
+          "percent": 8.58
+        },
+        "Python": {
+          "hours": "15 mins",
+          "percent": 4.24
+        },
+        "Markdown": {
+          "hours": "10 mins",
+          "percent": 2.72
+        },
+        "Text": {
+          "hours": "8 mins",
+          "percent": 2.18
+        },
+        "Git Config": {
+          "hours": "1 min",
+          "percent": 0.32
+        },
+        "Bash": {
+          "hours": "46 secs",
+          "percent": 0.21
+        },
+        "Objective-C": {
+          "hours": "8 secs",
+          "percent": 0.04
+        },
+        "VimL": {
+          "hours": "4 secs",
+          "percent": 0.02
+        },
+        "Io": {
+          "hours": "4 secs",
+          "percent": 0.02
+        }
+      }
     }
   ]
 }
