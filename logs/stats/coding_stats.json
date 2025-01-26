@@ -2339,6 +2339,26 @@
           "percent": 1.01
         }
       }
+    },
+    {
+      "date": "2025-01-25",
+      "weekday": "Saturday",
+      "total_hours": 5.73,
+      "categories": {
+        "Coding": "5.25",
+        "Browsing": "0.45",
+        "Building": "0.00"
+      },
+      "languages": {
+        "Swift": {
+          "hours": "4 hrs 28 mins",
+          "percent": 77.95
+        },
+        "Other": {
+          "hours": "1 hr 15 mins",
+          "percent": 22.05
+        }
+      }
     }
   ]
 }
