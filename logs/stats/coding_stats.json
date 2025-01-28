@@ -2381,6 +2381,46 @@
           "percent": 0.21
         }
       }
+    },
+    {
+      "date": "2025-01-27",
+      "weekday": "Monday",
+      "total_hours": 4.55,
+      "categories": {
+        "Browsing": "2.55",
+        "Coding": "2.00",
+        "Writing Docs": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "3 hrs 19 mins",
+          "percent": 72.87
+        },
+        "TeX": {
+          "hours": "54 mins",
+          "percent": 19.76
+        },
+        "Swift": {
+          "hours": "18 mins",
+          "percent": 6.63
+        },
+        "Git Config": {
+          "hours": "1 min",
+          "percent": 0.37
+        },
+        "Markdown": {
+          "hours": "34 secs",
+          "percent": 0.21
+        },
+        "C": {
+          "hours": "24 secs",
+          "percent": 0.15
+        },
+        "Text": {
+          "hours": "1 sec",
+          "percent": 0.01
+        }
+      }
     }
   ]
 }
