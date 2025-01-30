@@ -2460,6 +2460,42 @@
           "percent": 0.01
         }
       }
+    },
+    {
+      "date": "2025-01-29",
+      "weekday": "Wednesday",
+      "total_hours": 4.58,
+      "categories": {
+        "Coding": "3.52",
+        "Browsing": "1.05",
+        "Building": "0.00"
+      },
+      "languages": {
+        "Swift": {
+          "hours": "2 hrs 16 mins",
+          "percent": 49.43
+        },
+        "TeX": {
+          "hours": "1 hr 10 mins",
+          "percent": 25.53
+        },
+        "Other": {
+          "hours": "1 hr 8 mins",
+          "percent": 24.86
+        },
+        "Text": {
+          "hours": "12 secs",
+          "percent": 0.07
+        },
+        "Io": {
+          "hours": "11 secs",
+          "percent": 0.07
+        },
+        "C++": {
+          "hours": "4 secs",
+          "percent": 0.03
+        }
+      }
     }
   ]
 }
