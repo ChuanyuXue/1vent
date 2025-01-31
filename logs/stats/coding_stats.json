@@ -2496,6 +2496,57 @@
           "percent": 0.03
         }
       }
+    },
+    {
+      "date": "2025-01-30",
+      "weekday": "Thursday",
+      "total_hours": 5.02,
+      "categories": {
+        "Coding": "3.22",
+        "Browsing": "1.78"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 40 mins",
+          "percent": 53.34
+        },
+        "C++": {
+          "hours": "1 hr 8 mins",
+          "percent": 22.68
+        },
+        "Python": {
+          "hours": "34 mins",
+          "percent": 11.33
+        },
+        "TOML": {
+          "hours": "21 mins",
+          "percent": 7.18
+        },
+        "Text": {
+          "hours": "7 mins",
+          "percent": 2.51
+        },
+        "CSV": {
+          "hours": "4 mins",
+          "percent": 1.35
+        },
+        "Swift": {
+          "hours": "3 mins",
+          "percent": 1.28
+        },
+        "Git Config": {
+          "hours": "37 secs",
+          "percent": 0.2
+        },
+        "Batchfile": {
+          "hours": "17 secs",
+          "percent": 0.1
+        },
+        "YAML": {
+          "hours": "2 secs",
+          "percent": 0.01
+        }
+      }
     }
   ]
 }
