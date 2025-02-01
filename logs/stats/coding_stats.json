@@ -2547,6 +2547,41 @@
           "percent": 0.01
         }
       }
+    },
+    {
+      "date": "2025-01-31",
+      "weekday": "Friday",
+      "total_hours": 4.25,
+      "categories": {
+        "Coding": "2.93",
+        "Browsing": "1.32"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 28 mins",
+          "percent": 57.87
+        },
+        "TeX": {
+          "hours": "1 hr 33 mins",
+          "percent": 36.68
+        },
+        "CSV": {
+          "hours": "11 mins",
+          "percent": 4.53
+        },
+        "Python": {
+          "hours": "1 min",
+          "percent": 0.66
+        },
+        "Io": {
+          "hours": "39 secs",
+          "percent": 0.25
+        },
+        "Image (svg)": {
+          "hours": "1 sec",
+          "percent": 0.01
+        }
+      }
     }
   ]
 }
