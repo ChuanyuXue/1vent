@@ -2639,6 +2639,57 @@
           "percent": 0.0
         }
       }
+    },
+    {
+      "date": "2025-02-03",
+      "weekday": "Monday",
+      "total_hours": 8.27,
+      "categories": {
+        "Browsing": "4.75",
+        "Coding": "3.52"
+      },
+      "languages": {
+        "Swift": {
+          "hours": "3 hrs 18 mins",
+          "percent": 40.06
+        },
+        "Other": {
+          "hours": "2 hrs 40 mins",
+          "percent": 32.31
+        },
+        "C": {
+          "hours": "1 hr 19 mins",
+          "percent": 16.0
+        },
+        "TeX": {
+          "hours": "28 mins",
+          "percent": 5.65
+        },
+        "C++": {
+          "hours": "25 mins",
+          "percent": 5.11
+        },
+        "Text": {
+          "hours": "1 min",
+          "percent": 0.38
+        },
+        "Python": {
+          "hours": "57 secs",
+          "percent": 0.19
+        },
+        "VimL": {
+          "hours": "49 secs",
+          "percent": 0.17
+        },
+        "OpenEdge ABL": {
+          "hours": "37 secs",
+          "percent": 0.13
+        },
+        "Objective-C": {
+          "hours": "2 secs",
+          "percent": 0.01
+        }
+      }
     }
   ]
 }
