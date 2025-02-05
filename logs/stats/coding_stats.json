@@ -2690,6 +2690,46 @@
           "percent": 0.01
         }
       }
+    },
+    {
+      "date": "2025-02-04",
+      "weekday": "Tuesday",
+      "total_hours": 4.28,
+      "categories": {
+        "Coding": "3.70",
+        "Browsing": "0.57",
+        "Building": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr 46 mins",
+          "percent": 41.41
+        },
+        "Swift": {
+          "hours": "1 hr 23 mins",
+          "percent": 32.49
+        },
+        "C": {
+          "hours": "34 mins",
+          "percent": 13.37
+        },
+        "C++": {
+          "hours": "23 mins",
+          "percent": 9.28
+        },
+        "Text": {
+          "hours": "3 mins",
+          "percent": 1.52
+        },
+        "TypeScript": {
+          "hours": "3 mins",
+          "percent": 1.32
+        },
+        "Python": {
+          "hours": "1 min",
+          "percent": 0.6
+        }
+      }
     }
   ]
 }
