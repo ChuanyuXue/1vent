@@ -2730,6 +2730,58 @@
           "percent": 0.6
         }
       }
+    },
+    {
+      "date": "2025-02-05",
+      "weekday": "Wednesday",
+      "total_hours": 7.43,
+      "categories": {
+        "Coding": "5.85",
+        "Browsing": "1.58",
+        "Building": "0.00"
+      },
+      "languages": {
+        "C": {
+          "hours": "3 hrs 9 mins",
+          "percent": 42.39
+        },
+        "Other": {
+          "hours": "2 hrs 14 mins",
+          "percent": 30.02
+        },
+        "Swift": {
+          "hours": "1 hr 35 mins",
+          "percent": 21.28
+        },
+        "TypeScript": {
+          "hours": "20 mins",
+          "percent": 4.61
+        },
+        "Objective-C": {
+          "hours": "3 mins",
+          "percent": 0.81
+        },
+        "Diff": {
+          "hours": "2 mins",
+          "percent": 0.5
+        },
+        "Python": {
+          "hours": "1 min",
+          "percent": 0.29
+        },
+        "Groff": {
+          "hours": "17 secs",
+          "percent": 0.06
+        },
+        "Text": {
+          "hours": "7 secs",
+          "percent": 0.03
+        },
+        "C++": {
+          "hours": "3 secs",
+          "percent": 0.01
+        }
+      }
     }
   ]
 }
