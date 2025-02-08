@@ -2814,6 +2814,32 @@
           "percent": 0.06
         }
       }
+    },
+    {
+      "date": "2025-02-07",
+      "weekday": "Friday",
+      "total_hours": 1.55,
+      "categories": {
+        "Coding": "1.55"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr 17 mins",
+          "percent": 82.26
+        },
+        "C": {
+          "hours": "13 mins",
+          "percent": 13.93
+        },
+        "Objective-C": {
+          "hours": "3 mins",
+          "percent": 3.69
+        },
+        "Swift": {
+          "hours": "6 secs",
+          "percent": 0.12
+        }
+      }
     }
   ]
 }
