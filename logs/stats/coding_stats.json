@@ -2877,6 +2877,45 @@
           "percent": 5.18
         }
       }
+    },
+    {
+      "date": "2025-02-10",
+      "weekday": "Monday",
+      "total_hours": 6.07,
+      "categories": {
+        "Coding": "5.27",
+        "Browsing": "0.80"
+      },
+      "languages": {
+        "C": {
+          "hours": "3 hrs 21 mins",
+          "percent": 55.19
+        },
+        "Other": {
+          "hours": "2 hrs 32 mins",
+          "percent": 41.86
+        },
+        "Bash": {
+          "hours": "4 mins",
+          "percent": 1.3
+        },
+        "Text": {
+          "hours": "3 mins",
+          "percent": 1.0
+        },
+        "Diff": {
+          "hours": "1 min",
+          "percent": 0.36
+        },
+        "Objective-C": {
+          "hours": "47 secs",
+          "percent": 0.22
+        },
+        "Python": {
+          "hours": "17 secs",
+          "percent": 0.08
+        }
+      }
     }
   ]
 }
