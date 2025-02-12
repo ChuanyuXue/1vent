@@ -2916,6 +2916,29 @@
           "percent": 0.08
         }
       }
+    },
+    {
+      "date": "2025-02-11",
+      "weekday": "Tuesday",
+      "total_hours": 4.25,
+      "categories": {
+        "Coding": "2.97",
+        "Browsing": "1.28"
+      },
+      "languages": {
+        "Other": {
+          "hours": "4 hrs 7 mins",
+          "percent": 96.88
+        },
+        "Markdown": {
+          "hours": "4 mins",
+          "percent": 1.94
+        },
+        "C++": {
+          "hours": "3 mins",
+          "percent": 1.18
+        }
+      }
     }
   ]
 }
