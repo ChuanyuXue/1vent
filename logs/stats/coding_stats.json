@@ -2966,6 +2966,41 @@
           "percent": 0.52
         }
       }
+    },
+    {
+      "date": "2025-02-13",
+      "weekday": "Thursday",
+      "total_hours": 2.95,
+      "categories": {
+        "Coding": "1.90",
+        "Browsing": "1.05"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 39 mins",
+          "percent": 89.71
+        },
+        "C": {
+          "hours": "11 mins",
+          "percent": 6.49
+        },
+        "YAML": {
+          "hours": "4 mins",
+          "percent": 2.76
+        },
+        "Markdown": {
+          "hours": "1 min",
+          "percent": 0.73
+        },
+        "Objective-C": {
+          "hours": "26 secs",
+          "percent": 0.25
+        },
+        "Text": {
+          "hours": "4 secs",
+          "percent": 0.05
+        }
+      }
     }
   ]
 }
