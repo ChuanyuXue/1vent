@@ -3192,6 +3192,28 @@
           "percent": 43.95
         }
       }
+    },
+    {
+      "date": "2025-02-22",
+      "weekday": "Saturday",
+      "total_hours": 2.6,
+      "categories": {
+        "Coding": "2.60"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 2 mins",
+          "percent": 78.26
+        },
+        "C": {
+          "hours": "31 mins",
+          "percent": 20.04
+        },
+        "Bash": {
+          "hours": "2 mins",
+          "percent": 1.7
+        }
+      }
     }
   ]
 }
