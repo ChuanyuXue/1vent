@@ -3249,6 +3249,33 @@
           "percent": 0.01
         }
       }
+    },
+    {
+      "date": "2025-02-24",
+      "weekday": "Monday",
+      "total_hours": 6.62,
+      "categories": {
+        "Coding": "6.58",
+        "Writing Docs": "0.03"
+      },
+      "languages": {
+        "Other": {
+          "hours": "6 hrs 36 mins",
+          "percent": 99.58
+        },
+        "C": {
+          "hours": "48 secs",
+          "percent": 0.2
+        },
+        "Groff": {
+          "hours": "38 secs",
+          "percent": 0.16
+        },
+        "Bash": {
+          "hours": "14 secs",
+          "percent": 0.06
+        }
+      }
     }
   ]
 }
