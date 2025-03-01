@@ -3406,6 +3406,49 @@
           "percent": 0.03
         }
       }
+    },
+    {
+      "date": "2025-02-28",
+      "weekday": "Friday",
+      "total_hours": 5.47,
+      "categories": {
+        "Coding": "4.87",
+        "Browsing": "0.60"
+      },
+      "languages": {
+        "Other": {
+          "hours": "3 hrs 37 mins",
+          "percent": 66.05
+        },
+        "Python": {
+          "hours": "1 hr 5 mins",
+          "percent": 19.79
+        },
+        "Text": {
+          "hours": "42 mins",
+          "percent": 12.83
+        },
+        "Bash": {
+          "hours": "2 mins",
+          "percent": 0.65
+        },
+        "JSON": {
+          "hours": "2 mins",
+          "percent": 0.65
+        },
+        "Groff": {
+          "hours": "2 secs",
+          "percent": 0.02
+        },
+        "YAML": {
+          "hours": "1 sec",
+          "percent": 0.01
+        },
+        "Docker": {
+          "hours": "1 sec",
+          "percent": 0.01
+        }
+      }
     }
   ]
 }
