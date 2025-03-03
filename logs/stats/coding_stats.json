@@ -3496,6 +3496,58 @@
           "percent": 0.12
         }
       }
+    },
+    {
+      "date": "2025-03-02",
+      "weekday": "Sunday",
+      "total_hours": 5.03,
+      "categories": {
+        "Coding": "3.85",
+        "Browsing": "1.17",
+        "Building": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "3 hrs 10 mins",
+          "percent": 62.88
+        },
+        "C": {
+          "hours": "1 hr 26 mins",
+          "percent": 28.7
+        },
+        "Python": {
+          "hours": "9 mins",
+          "percent": 3.23
+        },
+        "Bash": {
+          "hours": "9 mins",
+          "percent": 3.11
+        },
+        "YAML": {
+          "hours": "3 mins",
+          "percent": 1.02
+        },
+        "Docker": {
+          "hours": "1 min",
+          "percent": 0.51
+        },
+        "Groff": {
+          "hours": "1 min",
+          "percent": 0.34
+        },
+        "Markdown": {
+          "hours": "16 secs",
+          "percent": 0.09
+        },
+        "Objective-C": {
+          "hours": "16 secs",
+          "percent": 0.09
+        },
+        "Text": {
+          "hours": "7 secs",
+          "percent": 0.04
+        }
+      }
     }
   ]
 }
