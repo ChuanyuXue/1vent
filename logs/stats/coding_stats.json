@@ -3622,6 +3622,44 @@
           "percent": 0.01
         }
       }
+    },
+    {
+      "date": "2025-03-05",
+      "weekday": "Wednesday",
+      "total_hours": 6.72,
+      "categories": {
+        "Coding": "6.72"
+      },
+      "languages": {
+        "Other": {
+          "hours": "5 hrs 14 mins",
+          "percent": 77.9
+        },
+        "C": {
+          "hours": "1 hr 21 mins",
+          "percent": 20.23
+        },
+        "Bash": {
+          "hours": "3 mins",
+          "percent": 0.82
+        },
+        "Docker": {
+          "hours": "1 min",
+          "percent": 0.43
+        },
+        "Text": {
+          "hours": "1 min",
+          "percent": 0.35
+        },
+        "Python": {
+          "hours": "38 secs",
+          "percent": 0.16
+        },
+        "Groff": {
+          "hours": "25 secs",
+          "percent": 0.1
+        }
+      }
     }
   ]
 }
