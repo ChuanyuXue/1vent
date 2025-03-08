@@ -3698,6 +3698,44 @@
           "percent": 0.02
         }
       }
+    },
+    {
+      "date": "2025-03-07",
+      "weekday": "Friday",
+      "total_hours": 3.58,
+      "categories": {
+        "Coding": "3.58"
+      },
+      "languages": {
+        "Other": {
+          "hours": "3 hrs 32 mins",
+          "percent": 98.31
+        },
+        "YAML": {
+          "hours": "1 min",
+          "percent": 0.65
+        },
+        "Python": {
+          "hours": "1 min",
+          "percent": 0.57
+        },
+        "Bash": {
+          "hours": "33 secs",
+          "percent": 0.26
+        },
+        "C": {
+          "hours": "18 secs",
+          "percent": 0.14
+        },
+        "Text": {
+          "hours": "5 secs",
+          "percent": 0.04
+        },
+        "Objective-C": {
+          "hours": "2 secs",
+          "percent": 0.02
+        }
+      }
     }
   ]
 }
