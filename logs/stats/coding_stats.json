@@ -3790,6 +3790,61 @@
           "percent": 0.02
         }
       }
+    },
+    {
+      "date": "2025-03-09",
+      "weekday": "Sunday",
+      "total_hours": 6.07,
+      "categories": {
+        "Coding": "3.78",
+        "Browsing": "2.27"
+      },
+      "languages": {
+        "Other": {
+          "hours": "3 hrs 24 mins",
+          "percent": 56.09
+        },
+        "Python": {
+          "hours": "1 hr 20 mins",
+          "percent": 22.23
+        },
+        "C": {
+          "hours": "50 mins",
+          "percent": 13.98
+        },
+        "Bash": {
+          "hours": "10 mins",
+          "percent": 2.93
+        },
+        "HTML": {
+          "hours": "5 mins",
+          "percent": 1.45
+        },
+        "JSON": {
+          "hours": "5 mins",
+          "percent": 1.44
+        },
+        "XML": {
+          "hours": "3 mins",
+          "percent": 0.86
+        },
+        "Objective-C": {
+          "hours": "2 mins",
+          "percent": 0.74
+        },
+        "Text": {
+          "hours": "47 secs",
+          "percent": 0.22
+        },
+        "Markdown": {
+          "hours": "13 secs",
+          "percent": 0.06
+        },
+        "Groff": {
+          "hours": "1 sec",
+          "percent": 0.0
+        }
+      }
     }
   ]
 }
