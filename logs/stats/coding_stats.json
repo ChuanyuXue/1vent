@@ -3845,6 +3845,56 @@
           "percent": 0.0
         }
       }
+    },
+    {
+      "date": "2025-03-10",
+      "weekday": "Monday",
+      "total_hours": 4.48,
+      "categories": {
+        "Coding": "4.48"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr 59 mins",
+          "percent": 44.39
+        },
+        "C": {
+          "hours": "1 hr 57 mins",
+          "percent": 43.66
+        },
+        "Python": {
+          "hours": "17 mins",
+          "percent": 6.4
+        },
+        "JSON": {
+          "hours": "5 mins",
+          "percent": 2.03
+        },
+        "Text": {
+          "hours": "3 mins",
+          "percent": 1.38
+        },
+        "Objective-C": {
+          "hours": "3 mins",
+          "percent": 1.2
+        },
+        "Bash": {
+          "hours": "1 min",
+          "percent": 0.45
+        },
+        "XML": {
+          "hours": "1 min",
+          "percent": 0.4
+        },
+        "Diff": {
+          "hours": "9 secs",
+          "percent": 0.06
+        },
+        "Markdown": {
+          "hours": "5 secs",
+          "percent": 0.04
+        }
+      }
     }
   ]
 }
