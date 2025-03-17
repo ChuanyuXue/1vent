@@ -4068,6 +4068,61 @@
           "percent": 0.07
         }
       }
+    },
+    {
+      "date": "2025-03-16",
+      "weekday": "Sunday",
+      "total_hours": 4.8,
+      "categories": {
+        "Coding": "3.82",
+        "Browsing": "0.98"
+      },
+      "languages": {
+        "Other": {
+          "hours": "3 hrs 38 mins",
+          "percent": 75.81
+        },
+        "TeX": {
+          "hours": "58 mins",
+          "percent": 20.11
+        },
+        "Git Config": {
+          "hours": "3 mins",
+          "percent": 1.21
+        },
+        "Python": {
+          "hours": "3 mins",
+          "percent": 1.18
+        },
+        "Markdown": {
+          "hours": "1 min",
+          "percent": 0.55
+        },
+        "BibTeX": {
+          "hours": "1 min",
+          "percent": 0.5
+        },
+        "OpenEdge ABL": {
+          "hours": "1 min",
+          "percent": 0.46
+        },
+        "Groff": {
+          "hours": "11 secs",
+          "percent": 0.06
+        },
+        "BST": {
+          "hours": "6 secs",
+          "percent": 0.04
+        },
+        "C": {
+          "hours": "5 secs",
+          "percent": 0.03
+        },
+        "Devicetree": {
+          "hours": "5 secs",
+          "percent": 0.03
+        }
+      }
     }
   ]
 }
