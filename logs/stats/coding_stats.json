@@ -4191,6 +4191,36 @@
           "percent": 100.0
         }
       }
+    },
+    {
+      "date": "2025-03-20",
+      "weekday": "Thursday",
+      "total_hours": 4.22,
+      "categories": {
+        "Coding": "4.22"
+      },
+      "languages": {
+        "Other": {
+          "hours": "3 hrs 36 mins",
+          "percent": 85.6
+        },
+        "C": {
+          "hours": "30 mins",
+          "percent": 11.89
+        },
+        "Bash": {
+          "hours": "4 mins",
+          "percent": 1.79
+        },
+        "Text": {
+          "hours": "1 min",
+          "percent": 0.61
+        },
+        "Python": {
+          "hours": "17 secs",
+          "percent": 0.11
+        }
+      }
     }
   ]
 }
