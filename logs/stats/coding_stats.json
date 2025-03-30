@@ -4458,6 +4458,37 @@
           "percent": 15.79
         }
       }
+    },
+    {
+      "date": "2025-03-29",
+      "weekday": "Saturday",
+      "total_hours": 6.58,
+      "categories": {
+        "Coding": "5.43",
+        "Browsing": "1.13"
+      },
+      "languages": {
+        "Other": {
+          "hours": "3 hrs 16 mins",
+          "percent": 49.78
+        },
+        "C": {
+          "hours": "2 hrs 57 mins",
+          "percent": 44.91
+        },
+        "Bash": {
+          "hours": "8 mins",
+          "percent": 2.16
+        },
+        "Objective-C": {
+          "hours": "6 mins",
+          "percent": 1.75
+        },
+        "Diff": {
+          "hours": "5 mins",
+          "percent": 1.4
+        }
+      }
     }
   ]
 }
