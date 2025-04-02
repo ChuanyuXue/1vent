@@ -4547,6 +4547,37 @@
           "percent": 18.07
         }
       }
+    },
+    {
+      "date": "2025-04-01",
+      "weekday": "Tuesday",
+      "total_hours": 5.87,
+      "categories": {
+        "Coding": "4.75",
+        "Browsing": "1.12"
+      },
+      "languages": {
+        "Other": {
+          "hours": "4 hrs 26 mins",
+          "percent": 75.56
+        },
+        "C": {
+          "hours": "1 hr 15 mins",
+          "percent": 21.29
+        },
+        "Diff": {
+          "hours": "8 mins",
+          "percent": 2.46
+        },
+        "Objective-C": {
+          "hours": "2 mins",
+          "percent": 0.68
+        },
+        "Bash": {
+          "hours": "2 secs",
+          "percent": 0.01
+        }
+      }
     }
   ]
 }
