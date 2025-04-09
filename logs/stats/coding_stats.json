@@ -4743,6 +4743,41 @@
           "percent": 0.12
         }
       }
+    },
+    {
+      "date": "2025-04-08",
+      "weekday": "Tuesday",
+      "total_hours": 4.28,
+      "categories": {
+        "Coding": "3.48",
+        "Browsing": "0.78"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr 57 mins",
+          "percent": 45.61
+        },
+        "Python": {
+          "hours": "1 hr 47 mins",
+          "percent": 41.89
+        },
+        "C": {
+          "hours": "24 mins",
+          "percent": 9.54
+        },
+        "Bash": {
+          "hours": "6 mins",
+          "percent": 2.48
+        },
+        "Text": {
+          "hours": "51 secs",
+          "percent": 0.34
+        },
+        "Markdown": {
+          "hours": "21 secs",
+          "percent": 0.14
+        }
+      }
     }
   ]
 }
