@@ -4999,6 +4999,65 @@
           "percent": 1.52
         }
       }
+    },
+    {
+      "date": "2025-04-16",
+      "weekday": "Wednesday",
+      "total_hours": 7.68,
+      "categories": {
+        "Coding": "6.75",
+        "Browsing": "0.92"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 44 mins",
+          "percent": 35.7
+        },
+        "TeX": {
+          "hours": "2 hrs 27 mins",
+          "percent": 31.93
+        },
+        "Python": {
+          "hours": "1 hr 57 mins",
+          "percent": 25.48
+        },
+        "C": {
+          "hours": "17 mins",
+          "percent": 3.86
+        },
+        "Bash": {
+          "hours": "4 mins",
+          "percent": 0.89
+        },
+        "CSV": {
+          "hours": "2 mins",
+          "percent": 0.63
+        },
+        "Diff": {
+          "hours": "2 mins",
+          "percent": 0.5
+        },
+        "Text": {
+          "hours": "2 mins",
+          "percent": 0.48
+        },
+        "Image (svg)": {
+          "hours": "1 min",
+          "percent": 0.35
+        },
+        "Markdown": {
+          "hours": "33 secs",
+          "percent": 0.12
+        },
+        "BibTeX": {
+          "hours": "16 secs",
+          "percent": 0.06
+        },
+        "Makefile": {
+          "hours": "1 sec",
+          "percent": 0.0
+        }
+      }
     }
   ]
 }
