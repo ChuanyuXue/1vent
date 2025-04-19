@@ -5104,6 +5104,49 @@
           "percent": 0.01
         }
       }
+    },
+    {
+      "date": "2025-04-18",
+      "weekday": "Friday",
+      "total_hours": 8.12,
+      "categories": {
+        "Coding": "4.90",
+        "Browsing": "3.20"
+      },
+      "languages": {
+        "Other": {
+          "hours": "5 hrs 36 mins",
+          "percent": 68.96
+        },
+        "TeX": {
+          "hours": "1 hr 36 mins",
+          "percent": 19.76
+        },
+        "LaTeX": {
+          "hours": "33 mins",
+          "percent": 6.95
+        },
+        "Bash": {
+          "hours": "8 mins",
+          "percent": 1.73
+        },
+        "Text": {
+          "hours": "7 mins",
+          "percent": 1.61
+        },
+        "C": {
+          "hours": "2 mins",
+          "percent": 0.47
+        },
+        "BibTeX": {
+          "hours": "1 min",
+          "percent": 0.36
+        },
+        "Markdown": {
+          "hours": "48 secs",
+          "percent": 0.17
+        }
+      }
     }
   ]
 }
