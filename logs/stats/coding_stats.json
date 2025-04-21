@@ -5190,6 +5190,53 @@
           "percent": 0.03
         }
       }
+    },
+    {
+      "date": "2025-04-20",
+      "weekday": "Sunday",
+      "total_hours": 8.9,
+      "categories": {
+        "Coding": "7.50",
+        "Browsing": "1.40"
+      },
+      "languages": {
+        "Other": {
+          "hours": "6 hrs 8 mins",
+          "percent": 68.97
+        },
+        "Text": {
+          "hours": "47 mins",
+          "percent": 8.8
+        },
+        "TeX": {
+          "hours": "43 mins",
+          "percent": 8.13
+        },
+        "Bash": {
+          "hours": "29 mins",
+          "percent": 5.53
+        },
+        "Python": {
+          "hours": "24 mins",
+          "percent": 4.64
+        },
+        "C": {
+          "hours": "13 mins",
+          "percent": 2.49
+        },
+        "Groff": {
+          "hours": "5 mins",
+          "percent": 1.0
+        },
+        "CSV": {
+          "hours": "2 mins",
+          "percent": 0.42
+        },
+        "Markdown": {
+          "hours": "3 secs",
+          "percent": 0.01
+        }
+      }
     }
   ]
 }
