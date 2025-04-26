@@ -5383,6 +5383,37 @@
           "percent": 0.01
         }
       }
+    },
+    {
+      "date": "2025-04-25",
+      "weekday": "Friday",
+      "total_hours": 2.73,
+      "categories": {
+        "Coding": "1.52",
+        "Browsing": "1.22"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr 38 mins",
+          "percent": 60.18
+        },
+        "TeX": {
+          "hours": "38 mins",
+          "percent": 23.7
+        },
+        "Markdown": {
+          "hours": "20 mins",
+          "percent": 12.71
+        },
+        "Python": {
+          "hours": "4 mins",
+          "percent": 2.44
+        },
+        "BibTeX": {
+          "hours": "1 min",
+          "percent": 0.96
+        }
+      }
     }
   ]
 }
