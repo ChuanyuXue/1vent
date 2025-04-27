@@ -5414,6 +5414,28 @@
           "percent": 0.96
         }
       }
+    },
+    {
+      "date": "2025-04-26",
+      "weekday": "Saturday",
+      "total_hours": 1.07,
+      "categories": {
+        "Coding": "1.07"
+      },
+      "languages": {
+        "Markdown": {
+          "hours": "47 mins",
+          "percent": 73.57
+        },
+        "Other": {
+          "hours": "15 mins",
+          "percent": 23.23
+        },
+        "Text": {
+          "hours": "2 mins",
+          "percent": 3.2
+        }
+      }
     }
   ]
 }
