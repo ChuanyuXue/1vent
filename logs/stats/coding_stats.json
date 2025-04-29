@@ -5467,6 +5467,33 @@
           "percent": 0.05
         }
       }
+    },
+    {
+      "date": "2025-04-28",
+      "weekday": "Monday",
+      "total_hours": 3.92,
+      "categories": {
+        "Coding": "3.53",
+        "Browsing": "0.37"
+      },
+      "languages": {
+        "TeX": {
+          "hours": "2 hrs 17 mins",
+          "percent": 58.31
+        },
+        "Other": {
+          "hours": "1 hr 31 mins",
+          "percent": 38.77
+        },
+        "C": {
+          "hours": "4 mins",
+          "percent": 2.07
+        },
+        "LaTeX": {
+          "hours": "1 min",
+          "percent": 0.85
+        }
+      }
     }
   ]
 }
