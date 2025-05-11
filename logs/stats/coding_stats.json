@@ -5888,6 +5888,45 @@
           "percent": 0.84
         }
       }
+    },
+    {
+      "date": "2025-05-10",
+      "weekday": "Saturday",
+      "total_hours": 4.85,
+      "categories": {
+        "Coding": "3.12",
+        "Browsing": "1.73"
+      },
+      "languages": {
+        "TeX": {
+          "hours": "3 hrs 15 mins",
+          "percent": 67.24
+        },
+        "Other": {
+          "hours": "1 hr 23 mins",
+          "percent": 28.74
+        },
+        "Python": {
+          "hours": "5 mins",
+          "percent": 1.8
+        },
+        "BibTeX": {
+          "hours": "4 mins",
+          "percent": 1.51
+        },
+        "Git Config": {
+          "hours": "55 secs",
+          "percent": 0.32
+        },
+        "OpenEdge ABL": {
+          "hours": "39 secs",
+          "percent": 0.22
+        },
+        "BST": {
+          "hours": "30 secs",
+          "percent": 0.17
+        }
+      }
     }
   ]
 }
