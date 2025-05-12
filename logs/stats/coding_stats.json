@@ -5927,6 +5927,73 @@
           "percent": 0.17
         }
       }
+    },
+    {
+      "date": "2025-05-11",
+      "weekday": "Sunday",
+      "total_hours": 4.95,
+      "categories": {
+        "Coding": "4.05",
+        "Browsing": "0.88"
+      },
+      "languages": {
+        "Python": {
+          "hours": "2 hrs",
+          "percent": 40.47
+        },
+        "TeX": {
+          "hours": "45 mins",
+          "percent": 15.38
+        },
+        "Bash": {
+          "hours": "31 mins",
+          "percent": 10.72
+        },
+        "Text": {
+          "hours": "21 mins",
+          "percent": 7.35
+        },
+        "LaTeX": {
+          "hours": "21 mins",
+          "percent": 7.23
+        },
+        "Other": {
+          "hours": "20 mins",
+          "percent": 6.91
+        },
+        "CSV": {
+          "hours": "13 mins",
+          "percent": 4.42
+        },
+        "JSON": {
+          "hours": "12 mins",
+          "percent": 4.36
+        },
+        "C++": {
+          "hours": "3 mins",
+          "percent": 1.04
+        },
+        "C": {
+          "hours": "2 mins",
+          "percent": 0.69
+        },
+        "INI": {
+          "hours": "1 min",
+          "percent": 0.56
+        },
+        "Markdown": {
+          "hours": "1 min",
+          "percent": 0.49
+        },
+        "Image (svg)": {
+          "hours": "1 min",
+          "percent": 0.38
+        },
+        "Git Config": {
+          "hours": "1 sec",
+          "percent": 0.01
+        }
+      }
     }
   ]
 }
