@@ -5994,6 +5994,49 @@
           "percent": 0.01
         }
       }
+    },
+    {
+      "date": "2025-05-12",
+      "weekday": "Monday",
+      "total_hours": 5.32,
+      "categories": {
+        "Coding": "3.72",
+        "Browsing": "1.60"
+      },
+      "languages": {
+        "TeX": {
+          "hours": "2 hrs 46 mins",
+          "percent": 52.0
+        },
+        "Other": {
+          "hours": "1 hr 30 mins",
+          "percent": 28.29
+        },
+        "C": {
+          "hours": "30 mins",
+          "percent": 9.58
+        },
+        "Groff": {
+          "hours": "22 mins",
+          "percent": 7.04
+        },
+        "INI": {
+          "hours": "4 mins",
+          "percent": 1.55
+        },
+        "Bash": {
+          "hours": "2 mins",
+          "percent": 0.89
+        },
+        "Python": {
+          "hours": "2 mins",
+          "percent": 0.63
+        },
+        "OpenEdge ABL": {
+          "hours": "1 sec",
+          "percent": 0.01
+        }
+      }
     }
   ]
 }
