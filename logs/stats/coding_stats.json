@@ -6199,6 +6199,13 @@
           "percent": 0.05
         }
       }
+    },
+    {
+      "date": "2025-05-17",
+      "weekday": "Saturday",
+      "total_hours": 0.0,
+      "categories": {},
+      "languages": {}
     }
   ]
 }
