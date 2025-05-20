@@ -6245,6 +6245,30 @@
           "percent": 0.14
         }
       }
+    },
+    {
+      "date": "2025-05-19",
+      "weekday": "Monday",
+      "total_hours": 5.17,
+      "categories": {
+        "Coding": "3.33",
+        "Browsing": "1.82",
+        "Building": "0.00"
+      },
+      "languages": {
+        "Swift": {
+          "hours": "2 hrs 19 mins",
+          "percent": 44.91
+        },
+        "TeX": {
+          "hours": "1 hr 31 mins",
+          "percent": 29.52
+        },
+        "Other": {
+          "hours": "1 hr 19 mins",
+          "percent": 25.57
+        }
+      }
     }
   ]
 }
