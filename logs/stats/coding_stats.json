@@ -6269,6 +6269,45 @@
           "percent": 25.57
         }
       }
+    },
+    {
+      "date": "2025-05-20",
+      "weekday": "Tuesday",
+      "total_hours": 5.13,
+      "categories": {
+        "Coding": "3.32",
+        "Browsing": "1.82"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 15 mins",
+          "percent": 43.87
+        },
+        "Swift": {
+          "hours": "1 hr 14 mins",
+          "percent": 24.03
+        },
+        "C": {
+          "hours": "1 hr 10 mins",
+          "percent": 22.78
+        },
+        "Python": {
+          "hours": "19 mins",
+          "percent": 6.36
+        },
+        "Bash": {
+          "hours": "6 mins",
+          "percent": 2.13
+        },
+        "Makefile": {
+          "hours": "1 min",
+          "percent": 0.57
+        },
+        "Groff": {
+          "hours": "46 secs",
+          "percent": 0.25
+        }
+      }
     }
   ]
 }
