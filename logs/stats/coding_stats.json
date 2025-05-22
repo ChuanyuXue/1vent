@@ -6308,6 +6308,57 @@
           "percent": 0.25
         }
       }
+    },
+    {
+      "date": "2025-05-21",
+      "weekday": "Wednesday",
+      "total_hours": 7.48,
+      "categories": {
+        "Coding": "6.93",
+        "Browsing": "0.53"
+      },
+      "languages": {
+        "Other": {
+          "hours": "5 hrs 12 mins",
+          "percent": 69.61
+        },
+        "Python": {
+          "hours": "1 hr 52 mins",
+          "percent": 24.93
+        },
+        "Groff": {
+          "hours": "9 mins",
+          "percent": 2.02
+        },
+        "C": {
+          "hours": "5 mins",
+          "percent": 1.27
+        },
+        "Markdown": {
+          "hours": "3 mins",
+          "percent": 0.77
+        },
+        "Text": {
+          "hours": "3 mins",
+          "percent": 0.75
+        },
+        "JSON": {
+          "hours": "1 min",
+          "percent": 0.37
+        },
+        "Bash": {
+          "hours": "1 min",
+          "percent": 0.26
+        },
+        "Image (svg)": {
+          "hours": "3 secs",
+          "percent": 0.01
+        },
+        "Go": {
+          "hours": "2 secs",
+          "percent": 0.01
+        }
+      }
     }
   ]
 }
