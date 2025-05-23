@@ -6359,6 +6359,53 @@
           "percent": 0.01
         }
       }
+    },
+    {
+      "date": "2025-05-22",
+      "weekday": "Thursday",
+      "total_hours": 7.5,
+      "categories": {
+        "Coding": "4.12",
+        "Browsing": "3.38"
+      },
+      "languages": {
+        "Other": {
+          "hours": "4 hrs 27 mins",
+          "percent": 59.45
+        },
+        "Python": {
+          "hours": "1 hr 40 mins",
+          "percent": 22.23
+        },
+        "C": {
+          "hours": "55 mins",
+          "percent": 12.4
+        },
+        "CSV": {
+          "hours": "17 mins",
+          "percent": 3.86
+        },
+        "Text": {
+          "hours": "8 mins",
+          "percent": 1.95
+        },
+        "Groff": {
+          "hours": "14 secs",
+          "percent": 0.06
+        },
+        "D": {
+          "hours": "4 secs",
+          "percent": 0.02
+        },
+        "INI": {
+          "hours": "4 secs",
+          "percent": 0.02
+        },
+        "Markdown": {
+          "hours": "4 secs",
+          "percent": 0.02
+        }
+      }
     }
   ]
 }
