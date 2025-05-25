@@ -6425,6 +6425,13 @@
           "percent": 23.58
         }
       }
+    },
+    {
+      "date": "2025-05-24",
+      "weekday": "Saturday",
+      "total_hours": 0.0,
+      "categories": {},
+      "languages": {}
     }
   ]
 }
