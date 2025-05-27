@@ -6432,6 +6432,65 @@
       "total_hours": 0.0,
       "categories": {},
       "languages": {}
+    },
+    {
+      "date": "2025-05-26",
+      "weekday": "Monday",
+      "total_hours": 3.07,
+      "categories": {
+        "Coding": "2.27",
+        "Browsing": "0.78"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr 22 mins",
+          "percent": 44.79
+        },
+        "TeX": {
+          "hours": "39 mins",
+          "percent": 21.61
+        },
+        "C": {
+          "hours": "23 mins",
+          "percent": 12.92
+        },
+        "YAML": {
+          "hours": "13 mins",
+          "percent": 7.34
+        },
+        "Bash": {
+          "hours": "10 mins",
+          "percent": 5.46
+        },
+        "Python": {
+          "hours": "5 mins",
+          "percent": 2.79
+        },
+        "Git Config": {
+          "hours": "4 mins",
+          "percent": 2.42
+        },
+        "Text": {
+          "hours": "4 mins",
+          "percent": 2.26
+        },
+        "JSON": {
+          "hours": "31 secs",
+          "percent": 0.29
+        },
+        "Makefile": {
+          "hours": "5 secs",
+          "percent": 0.05
+        },
+        "Docker": {
+          "hours": "5 secs",
+          "percent": 0.05
+        },
+        "Markdown": {
+          "hours": "4 secs",
+          "percent": 0.04
+        }
+      }
     }
   ]
 }
