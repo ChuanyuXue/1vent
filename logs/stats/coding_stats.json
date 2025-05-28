@@ -6491,6 +6491,41 @@
           "percent": 0.04
         }
       }
+    },
+    {
+      "date": "2025-05-27",
+      "weekday": "Tuesday",
+      "total_hours": 4.42,
+      "categories": {
+        "Coding": "2.60",
+        "Browsing": "1.80"
+      },
+      "languages": {
+        "C": {
+          "hours": "1 hr 42 mins",
+          "percent": 38.59
+        },
+        "Other": {
+          "hours": "1 hr 15 mins",
+          "percent": 28.24
+        },
+        "YAML": {
+          "hours": "1 hr 6 mins",
+          "percent": 25.08
+        },
+        "Diff": {
+          "hours": "11 mins",
+          "percent": 4.48
+        },
+        "Markdown": {
+          "hours": "6 mins",
+          "percent": 2.27
+        },
+        "Makefile": {
+          "hours": "3 mins",
+          "percent": 1.34
+        }
+      }
     }
   ]
 }
