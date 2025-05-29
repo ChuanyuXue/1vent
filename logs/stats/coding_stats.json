@@ -6526,6 +6526,57 @@
           "percent": 1.34
         }
       }
+    },
+    {
+      "date": "2025-05-28",
+      "weekday": "Wednesday",
+      "total_hours": 3.88,
+      "categories": {
+        "Coding": "3.02",
+        "Browsing": "0.85"
+      },
+      "languages": {
+        "C": {
+          "hours": "2 hrs 9 mins",
+          "percent": 55.67
+        },
+        "Other": {
+          "hours": "1 hr 11 mins",
+          "percent": 30.53
+        },
+        "Diff": {
+          "hours": "24 mins",
+          "percent": 10.72
+        },
+        "Bash": {
+          "hours": "2 mins",
+          "percent": 1.01
+        },
+        "JSON": {
+          "hours": "1 min",
+          "percent": 0.75
+        },
+        "Markdown": {
+          "hours": "1 min",
+          "percent": 0.49
+        },
+        "Text": {
+          "hours": "58 secs",
+          "percent": 0.42
+        },
+        "Makefile": {
+          "hours": "48 secs",
+          "percent": 0.34
+        },
+        "TeX": {
+          "hours": "5 secs",
+          "percent": 0.04
+        },
+        "Groff": {
+          "hours": "3 secs",
+          "percent": 0.03
+        }
+      }
     }
   ]
 }
