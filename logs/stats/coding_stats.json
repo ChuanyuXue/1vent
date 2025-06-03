@@ -6696,6 +6696,53 @@
           "percent": 0.01
         }
       }
+    },
+    {
+      "date": "2025-06-02",
+      "weekday": "Monday",
+      "total_hours": 6.32,
+      "categories": {
+        "Coding": "5.63",
+        "Browsing": "0.68"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 53 mins",
+          "percent": 45.73
+        },
+        "C": {
+          "hours": "1 hr 22 mins",
+          "percent": 21.63
+        },
+        "Markdown": {
+          "hours": "1 hr 7 mins",
+          "percent": 17.86
+        },
+        "TeX": {
+          "hours": "28 mins",
+          "percent": 7.62
+        },
+        "Diff": {
+          "hours": "17 mins",
+          "percent": 4.54
+        },
+        "BibTeX": {
+          "hours": "8 mins",
+          "percent": 2.13
+        },
+        "OpenEdge ABL": {
+          "hours": "1 min",
+          "percent": 0.39
+        },
+        "Text": {
+          "hours": "12 secs",
+          "percent": 0.06
+        },
+        "Makefile": {
+          "hours": "9 secs",
+          "percent": 0.04
+        }
+      }
     }
   ]
 }
