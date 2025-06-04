@@ -6743,6 +6743,45 @@
           "percent": 0.04
         }
       }
+    },
+    {
+      "date": "2025-06-03",
+      "weekday": "Tuesday",
+      "total_hours": 0.47,
+      "categories": {
+        "Coding": "0.37",
+        "Browsing": "0.08"
+      },
+      "languages": {
+        "Other": {
+          "hours": "17 mins",
+          "percent": 62.97
+        },
+        "BibTeX": {
+          "hours": "5 mins",
+          "percent": 18.94
+        },
+        "Markdown": {
+          "hours": "2 mins",
+          "percent": 7.79
+        },
+        "C": {
+          "hours": "1 min",
+          "percent": 6.67
+        },
+        "Makefile": {
+          "hours": "31 secs",
+          "percent": 1.83
+        },
+        "Text": {
+          "hours": "19 secs",
+          "percent": 1.14
+        },
+        "Bash": {
+          "hours": "11 secs",
+          "percent": 0.65
+        }
+      }
     }
   ]
 }
