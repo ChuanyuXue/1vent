@@ -6860,6 +6860,40 @@
           "percent": 0.28
         }
       }
+    },
+    {
+      "date": "2025-06-06",
+      "weekday": "Friday",
+      "total_hours": 0.85,
+      "categories": {
+        "Coding": "0.85"
+      },
+      "languages": {
+        "TeX": {
+          "hours": "45 mins",
+          "percent": 87.46
+        },
+        "Markdown": {
+          "hours": "4 mins",
+          "percent": 7.92
+        },
+        "Text": {
+          "hours": "1 min",
+          "percent": 2.29
+        },
+        "Python": {
+          "hours": "55 secs",
+          "percent": 1.78
+        },
+        "BST": {
+          "hours": "9 secs",
+          "percent": 0.31
+        },
+        "Swift": {
+          "hours": "7 secs",
+          "percent": 0.24
+        }
+      }
     }
   ]
 }
