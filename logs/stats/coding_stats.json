@@ -6908,6 +6908,48 @@
           "percent": 100.0
         }
       }
+    },
+    {
+      "date": "2025-06-08",
+      "weekday": "Sunday",
+      "total_hours": 1.93,
+      "categories": {
+        "Coding": "1.93"
+      },
+      "languages": {
+        "Markdown": {
+          "hours": "59 mins",
+          "percent": 51.02
+        },
+        "Other": {
+          "hours": "46 mins",
+          "percent": 39.64
+        },
+        "C": {
+          "hours": "6 mins",
+          "percent": 5.96
+        },
+        "Bash": {
+          "hours": "2 mins",
+          "percent": 1.9
+        },
+        "Text": {
+          "hours": "53 secs",
+          "percent": 0.76
+        },
+        "Diff": {
+          "hours": "44 secs",
+          "percent": 0.64
+        },
+        "Makefile": {
+          "hours": "3 secs",
+          "percent": 0.05
+        },
+        "Python": {
+          "hours": "1 sec",
+          "percent": 0.02
+        }
+      }
     }
   ]
 }
