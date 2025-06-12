@@ -7038,6 +7038,32 @@
           "percent": 2.53
         }
       }
+    },
+    {
+      "date": "2025-06-11",
+      "weekday": "Wednesday",
+      "total_hours": 0.9,
+      "categories": {
+        "Coding": "0.90"
+      },
+      "languages": {
+        "Other": {
+          "hours": "30 mins",
+          "percent": 55.63
+        },
+        "TeX": {
+          "hours": "22 mins",
+          "percent": 41.33
+        },
+        "JSON": {
+          "hours": "1 min",
+          "percent": 2.3
+        },
+        "Python": {
+          "hours": "24 secs",
+          "percent": 0.74
+        }
+      }
     }
   ]
 }
