@@ -7155,6 +7155,32 @@
           "percent": 2.88
         }
       }
+    },
+    {
+      "date": "2025-06-16",
+      "weekday": "Monday",
+      "total_hours": 1.82,
+      "categories": {
+        "Coding": "1.82"
+      },
+      "languages": {
+        "Python": {
+          "hours": "1 hr 21 mins",
+          "percent": 74.43
+        },
+        "Other": {
+          "hours": "22 mins",
+          "percent": 20.26
+        },
+        "TeX": {
+          "hours": "5 mins",
+          "percent": 5.27
+        },
+        "Io": {
+          "hours": "2 secs",
+          "percent": 0.03
+        }
+      }
     }
   ]
 }
