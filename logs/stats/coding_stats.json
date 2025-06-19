@@ -7211,6 +7211,44 @@
           "percent": 0.03
         }
       }
+    },
+    {
+      "date": "2025-06-18",
+      "weekday": "Wednesday",
+      "total_hours": 5.7,
+      "categories": {
+        "Coding": "5.70"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 4 mins",
+          "percent": 36.39
+        },
+        "TeX": {
+          "hours": "1 hr 56 mins",
+          "percent": 34.16
+        },
+        "Python": {
+          "hours": "1 hr 34 mins",
+          "percent": 27.67
+        },
+        "CSV": {
+          "hours": "4 mins",
+          "percent": 1.44
+        },
+        "Markdown": {
+          "hours": "40 secs",
+          "percent": 0.2
+        },
+        "C": {
+          "hours": "24 secs",
+          "percent": 0.12
+        },
+        "Text": {
+          "hours": "3 secs",
+          "percent": 0.02
+        }
+      }
     }
   ]
 }
