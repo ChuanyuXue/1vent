@@ -7287,6 +7287,29 @@
           "percent": 0.01
         }
       }
+    },
+    {
+      "date": "2025-06-20",
+      "weekday": "Friday",
+      "total_hours": 2.03,
+      "categories": {
+        "Coding": "1.37",
+        "Browsing": "0.67"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr 15 mins",
+          "percent": 62.12
+        },
+        "TypeScript": {
+          "hours": "38 mins",
+          "percent": 31.34
+        },
+        "Markdown": {
+          "hours": "7 mins",
+          "percent": 6.54
+        }
+      }
     }
   ]
 }
