@@ -7359,6 +7359,29 @@
           "percent": 0.34
         }
       }
+    },
+    {
+      "date": "2025-06-23",
+      "weekday": "Monday",
+      "total_hours": 3.73,
+      "categories": {
+        "Coding": "2.10",
+        "Browsing": "1.62"
+      },
+      "languages": {
+        "Other": {
+          "hours": "3 hrs 30 mins",
+          "percent": 93.89
+        },
+        "Io": {
+          "hours": "11 mins",
+          "percent": 5.09
+        },
+        "Markdown": {
+          "hours": "2 mins",
+          "percent": 1.02
+        }
+      }
     }
   ]
 }
