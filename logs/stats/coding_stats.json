@@ -7400,6 +7400,20 @@
           "percent": 26.6
         }
       }
+    },
+    {
+      "date": "2025-06-25",
+      "weekday": "Wednesday",
+      "total_hours": 0.08,
+      "categories": {
+        "Coding": "0.08"
+      },
+      "languages": {
+        "Other": {
+          "hours": "5 mins",
+          "percent": 100.0
+        }
+      }
     }
   ]
 }
