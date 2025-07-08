@@ -7585,6 +7585,41 @@
           "percent": 46.84
         }
       }
+    },
+    {
+      "date": "2025-07-07",
+      "weekday": "Monday",
+      "total_hours": 2.9,
+      "categories": {
+        "Browsing": "2.07",
+        "Coding": "0.82"
+      },
+      "languages": {
+        "TeX": {
+          "hours": "1 hr 43 mins",
+          "percent": 59.1
+        },
+        "Other": {
+          "hours": "45 mins",
+          "percent": 25.9
+        },
+        "Markdown": {
+          "hours": "13 mins",
+          "percent": 7.79
+        },
+        "C": {
+          "hours": "11 mins",
+          "percent": 6.88
+        },
+        "OpenEdge ABL": {
+          "hours": "23 secs",
+          "percent": 0.22
+        },
+        "Text": {
+          "hours": "10 secs",
+          "percent": 0.1
+        }
+      }
     }
   ]
 }
