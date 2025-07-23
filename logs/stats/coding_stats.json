@@ -7883,6 +7883,37 @@
           "percent": 0.18
         }
       }
+    },
+    {
+      "date": "2025-07-22",
+      "weekday": "Tuesday",
+      "total_hours": 4.15,
+      "categories": {
+        "Coding": "2.78",
+        "AI Coding": "1.37"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 34 mins",
+          "percent": 61.81
+        },
+        "TeX": {
+          "hours": "1 hr 35 mins",
+          "percent": 38.14
+        },
+        "SELinux Policy": {
+          "hours": "4 secs",
+          "percent": 0.03
+        },
+        "Text": {
+          "hours": "2 secs",
+          "percent": 0.01
+        },
+        "BibTeX": {
+          "hours": "1 sec",
+          "percent": 0.01
+        }
+      }
     }
   ]
 }
