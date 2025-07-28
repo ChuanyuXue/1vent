@@ -7993,6 +7993,25 @@
           "percent": 30.54
         }
       }
+    },
+    {
+      "date": "2025-07-27",
+      "weekday": "Sunday",
+      "total_hours": 3.25,
+      "categories": {
+        "AI Coding": "1.75",
+        "Coding": "1.50"
+      },
+      "languages": {
+        "TeX": {
+          "hours": "2 hrs 33 mins",
+          "percent": 78.18
+        },
+        "Other": {
+          "hours": "42 mins",
+          "percent": 21.82
+        }
+      }
     }
   ]
 }
