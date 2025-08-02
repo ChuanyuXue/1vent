@@ -8068,6 +8068,29 @@
           "percent": 100.0
         }
       }
+    },
+    {
+      "date": "2025-08-01",
+      "weekday": "Friday",
+      "total_hours": 0.57,
+      "categories": {
+        "Coding": "0.52",
+        "Writing Docs": "0.03"
+      },
+      "languages": {
+        "Other": {
+          "hours": "31 mins",
+          "percent": 92.3
+        },
+        "Markdown": {
+          "hours": "2 mins",
+          "percent": 7.52
+        },
+        "CSS": {
+          "hours": "3 secs",
+          "percent": 0.18
+        }
+      }
     }
   ]
 }
