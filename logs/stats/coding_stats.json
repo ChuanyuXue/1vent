@@ -8179,6 +8179,36 @@
           "percent": 0.83
         }
       }
+    },
+    {
+      "date": "2025-08-06",
+      "weekday": "Wednesday",
+      "total_hours": 3.48,
+      "categories": {
+        "Coding": "3.48"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 39 mins",
+          "percent": 76.38
+        },
+        "Python": {
+          "hours": "41 mins",
+          "percent": 20.03
+        },
+        "CSV": {
+          "hours": "6 mins",
+          "percent": 3.33
+        },
+        "JSON": {
+          "hours": "30 secs",
+          "percent": 0.24
+        },
+        "Git Config": {
+          "hours": "1 sec",
+          "percent": 0.01
+        }
+      }
     }
   ]
 }
