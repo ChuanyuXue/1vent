@@ -8237,6 +8237,58 @@
           "percent": 1.13
         }
       }
+    },
+    {
+      "date": "2025-08-08",
+      "weekday": "Friday",
+      "total_hours": 3.67,
+      "categories": {
+        "Coding": "3.30",
+        "Writing Tests": "0.23",
+        "Writing Docs": "0.13"
+      },
+      "languages": {
+        "Python": {
+          "hours": "1 hr 49 mins",
+          "percent": 49.34
+        },
+        "Other": {
+          "hours": "1 hr 12 mins",
+          "percent": 32.92
+        },
+        "Markdown": {
+          "hours": "8 mins",
+          "percent": 3.64
+        },
+        "Git Config": {
+          "hours": "8 mins",
+          "percent": 3.63
+        },
+        "TOML": {
+          "hours": "6 mins",
+          "percent": 2.8
+        },
+        "YAML": {
+          "hours": "5 mins",
+          "percent": 2.32
+        },
+        "CSV": {
+          "hours": "4 mins",
+          "percent": 2.03
+        },
+        "C": {
+          "hours": "3 mins",
+          "percent": 1.71
+        },
+        "Cython": {
+          "hours": "3 mins",
+          "percent": 1.58
+        },
+        "Text": {
+          "hours": "4 secs",
+          "percent": 0.04
+        }
+      }
     }
   ]
 }
