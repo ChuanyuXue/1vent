@@ -8320,6 +8320,25 @@
           "percent": 0.26
         }
       }
+    },
+    {
+      "date": "2025-08-10",
+      "weekday": "Sunday",
+      "total_hours": 2.77,
+      "categories": {
+        "Coding": "2.68",
+        "AI Coding": "0.07"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs",
+          "percent": 72.42
+        },
+        "TypeScript": {
+          "hours": "45 mins",
+          "percent": 27.58
+        }
+      }
     }
   ]
 }
