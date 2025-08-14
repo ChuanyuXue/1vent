@@ -8420,6 +8420,35 @@
           "percent": 0.01
         }
       }
+    },
+    {
+      "date": "2025-08-13",
+      "weekday": "Wednesday",
+      "total_hours": 2.77,
+      "categories": {
+        "Coding": "2.18",
+        "Browsing": "0.50",
+        "Writing Docs": "0.03",
+        "Building": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 27 mins",
+          "percent": 88.97
+        },
+        "Swift": {
+          "hours": "14 mins",
+          "percent": 8.46
+        },
+        "Markdown": {
+          "hours": "2 mins",
+          "percent": 1.55
+        },
+        "TypeScript": {
+          "hours": "1 min",
+          "percent": 1.03
+        }
+      }
     }
   ]
 }
