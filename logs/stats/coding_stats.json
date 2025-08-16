@@ -8473,6 +8473,25 @@
           "percent": 9.13
         }
       }
+    },
+    {
+      "date": "2025-08-15",
+      "weekday": "Friday",
+      "total_hours": 2.4,
+      "categories": {
+        "Coding": "1.62",
+        "Browsing": "0.78"
+      },
+      "languages": {
+        "TeX": {
+          "hours": "1 hr 36 mins",
+          "percent": 66.65
+        },
+        "Other": {
+          "hours": "48 mins",
+          "percent": 33.35
+        }
+      }
     }
   ]
 }
