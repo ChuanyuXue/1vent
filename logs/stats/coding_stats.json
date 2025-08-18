@@ -8516,6 +8516,34 @@
           "percent": 11.1
         }
       }
+    },
+    {
+      "date": "2025-08-17",
+      "weekday": "Sunday",
+      "total_hours": 2.55,
+      "categories": {
+        "Coding": "2.55",
+        "Writing Docs": "0.00",
+        "Building": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr 46 mins",
+          "percent": 69.47
+        },
+        "Swift": {
+          "hours": "46 mins",
+          "percent": 30.07
+        },
+        "Markdown": {
+          "hours": "22 secs",
+          "percent": 0.24
+        },
+        "Vim Script": {
+          "hours": "19 secs",
+          "percent": 0.21
+        }
+      }
     }
   ]
 }
