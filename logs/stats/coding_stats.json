@@ -8578,6 +8578,32 @@
           "percent": 0.14
         }
       }
+    },
+    {
+      "date": "2025-08-19",
+      "weekday": "Tuesday",
+      "total_hours": 8.37,
+      "categories": {
+        "Coding": "7.92",
+        "Writing Tests": "0.37",
+        "Writing Docs": "0.05",
+        "AI Coding": "0.00",
+        "Building": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "5 hrs 42 mins",
+          "percent": 68.05
+        },
+        "Swift": {
+          "hours": "2 hrs 36 mins",
+          "percent": 31.21
+        },
+        "Markdown": {
+          "hours": "3 mins",
+          "percent": 0.74
+        }
+      }
     }
   ]
 }
