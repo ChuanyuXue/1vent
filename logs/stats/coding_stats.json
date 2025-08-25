@@ -8754,6 +8754,36 @@
           "percent": 0.02
         }
       }
+    },
+    {
+      "date": "2025-08-24",
+      "weekday": "Sunday",
+      "total_hours": 6.57,
+      "categories": {
+        "Coding": "4.50",
+        "Writing Tests": "2.03",
+        "AI Coding": "0.02",
+        "Building": "0.00",
+        "Writing Docs": "0.00"
+      },
+      "languages": {
+        "Swift": {
+          "hours": "5 hrs 44 mins",
+          "percent": 87.48
+        },
+        "Other": {
+          "hours": "26 mins",
+          "percent": 6.84
+        },
+        "Python": {
+          "hours": "20 mins",
+          "percent": 5.3
+        },
+        "Vim Script": {
+          "hours": "1 min",
+          "percent": 0.37
+        }
+      }
     }
   ]
 }
