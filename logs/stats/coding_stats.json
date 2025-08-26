@@ -8784,6 +8784,30 @@
           "percent": 0.37
         }
       }
+    },
+    {
+      "date": "2025-08-25",
+      "weekday": "Monday",
+      "total_hours": 3.12,
+      "categories": {
+        "Coding": "2.33",
+        "Browsing": "0.55",
+        "AI Coding": "0.22"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 6 mins",
+          "percent": 67.66
+        },
+        "TeX": {
+          "hours": "1 hr",
+          "percent": 32.03
+        },
+        "Swift": {
+          "hours": "34 secs",
+          "percent": 0.31
+        }
+      }
     }
   ]
 }
