@@ -8958,6 +8958,33 @@
           "percent": 0.04
         }
       }
+    },
+    {
+      "date": "2025-08-31",
+      "weekday": "Sunday",
+      "total_hours": 2.27,
+      "categories": {
+        "Coding": "2.05",
+        "Writing Tests": "0.22"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr 53 mins",
+          "percent": 83.06
+        },
+        "C": {
+          "hours": "13 mins",
+          "percent": 10.05
+        },
+        "Python": {
+          "hours": "8 mins",
+          "percent": 6.41
+        },
+        "Text": {
+          "hours": "39 secs",
+          "percent": 0.48
+        }
+      }
     }
   ]
 }
