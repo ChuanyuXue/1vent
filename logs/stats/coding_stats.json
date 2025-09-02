@@ -8985,6 +8985,43 @@
           "percent": 0.48
         }
       }
+    },
+    {
+      "date": "2025-09-01",
+      "weekday": "Monday",
+      "total_hours": 3.7,
+      "categories": {
+        "Coding": "3.38",
+        "Writing Tests": "0.32",
+        "Building": "0.00",
+        "Writing Docs": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 4 mins",
+          "percent": 55.86
+        },
+        "Swift": {
+          "hours": "1 hr 33 mins",
+          "percent": 42.03
+        },
+        "Diff": {
+          "hours": "2 mins",
+          "percent": 1.0
+        },
+        "Text": {
+          "hours": "1 min",
+          "percent": 0.77
+        },
+        "C": {
+          "hours": "43 secs",
+          "percent": 0.32
+        },
+        "Markdown": {
+          "hours": "2 secs",
+          "percent": 0.02
+        }
+      }
     }
   ]
 }
