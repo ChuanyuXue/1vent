@@ -9160,6 +9160,28 @@
           "percent": 0.13
         }
       }
+    },
+    {
+      "date": "2025-09-08",
+      "weekday": "Monday",
+      "total_hours": 0.98,
+      "categories": {
+        "Coding": "0.98"
+      },
+      "languages": {
+        "Other": {
+          "hours": "46 mins",
+          "percent": 78.72
+        },
+        "Objective-C": {
+          "hours": "9 mins",
+          "percent": 15.38
+        },
+        "Python": {
+          "hours": "3 mins",
+          "percent": 5.9
+        }
+      }
     }
   ]
 }
