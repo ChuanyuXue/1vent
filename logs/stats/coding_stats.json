@@ -9196,6 +9196,20 @@
           "percent": 100.0
         }
       }
+    },
+    {
+      "date": "2025-09-10",
+      "weekday": "Wednesday",
+      "total_hours": 2.47,
+      "categories": {
+        "Coding": "2.47"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 28 mins",
+          "percent": 100.0
+        }
+      }
     }
   ]
 }
