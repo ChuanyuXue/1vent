@@ -9210,6 +9210,20 @@
           "percent": 100.0
         }
       }
+    },
+    {
+      "date": "2025-09-11",
+      "weekday": "Thursday",
+      "total_hours": 0.33,
+      "categories": {
+        "Coding": "0.33"
+      },
+      "languages": {
+        "Other": {
+          "hours": "20 mins",
+          "percent": 100.0
+        }
+      }
     }
   ]
 }
