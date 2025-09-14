@@ -9238,6 +9238,25 @@
           "percent": 100.0
         }
       }
+    },
+    {
+      "date": "2025-09-13",
+      "weekday": "Saturday",
+      "total_hours": 0.93,
+      "categories": {
+        "Coding": "0.93",
+        "Building": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "46 mins",
+          "percent": 82.08
+        },
+        "Swift": {
+          "hours": "10 mins",
+          "percent": 17.92
+        }
+      }
     }
   ]
 }
