@@ -9283,6 +9283,28 @@
           "percent": 0.72
         }
       }
+    },
+    {
+      "date": "2025-09-15",
+      "weekday": "Monday",
+      "total_hours": 0.9,
+      "categories": {
+        "Coding": "0.90"
+      },
+      "languages": {
+        "C++": {
+          "hours": "41 mins",
+          "percent": 75.96
+        },
+        "Other": {
+          "hours": "6 mins",
+          "percent": 12.05
+        },
+        "Text": {
+          "hours": "6 mins",
+          "percent": 11.99
+        }
+      }
     }
   ]
 }
