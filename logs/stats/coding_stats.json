@@ -9323,6 +9323,33 @@
           "percent": 24.08
         }
       }
+    },
+    {
+      "date": "2025-09-17",
+      "weekday": "Wednesday",
+      "total_hours": 4.78,
+      "categories": {
+        "Coding": "4.77",
+        "AI Coding": "0.00"
+      },
+      "languages": {
+        "TeX": {
+          "hours": "3 hrs 29 mins",
+          "percent": 72.84
+        },
+        "Other": {
+          "hours": "1 hr 9 mins",
+          "percent": 24.22
+        },
+        "Git Config": {
+          "hours": "4 mins",
+          "percent": 1.64
+        },
+        "BibTeX": {
+          "hours": "3 mins",
+          "percent": 1.3
+        }
+      }
     }
   ]
 }
