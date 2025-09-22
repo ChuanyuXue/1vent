@@ -9408,6 +9408,38 @@
           "percent": 100.0
         }
       }
+    },
+    {
+      "date": "2025-09-21",
+      "weekday": "Sunday",
+      "total_hours": 1.95,
+      "categories": {
+        "Coding": "1.95",
+        "Writing Tests": "0.00",
+        "Building": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr 12 mins",
+          "percent": 61.97
+        },
+        "Python": {
+          "hours": "21 mins",
+          "percent": 18.72
+        },
+        "Swift": {
+          "hours": "19 mins",
+          "percent": 16.87
+        },
+        "Text": {
+          "hours": "2 mins",
+          "percent": 2.28
+        },
+        "C++": {
+          "hours": "11 secs",
+          "percent": 0.17
+        }
+      }
     }
   ]
 }
