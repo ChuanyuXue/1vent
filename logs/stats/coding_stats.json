@@ -9573,6 +9573,33 @@
           "percent": 43.56
         }
       }
+    },
+    {
+      "date": "2025-09-28",
+      "weekday": "Sunday",
+      "total_hours": 1.43,
+      "categories": {
+        "Coding": "1.35",
+        "Writing Docs": "0.08"
+      },
+      "languages": {
+        "Other": {
+          "hours": "47 mins",
+          "percent": 55.52
+        },
+        "Swift": {
+          "hours": "31 mins",
+          "percent": 36.24
+        },
+        "Markdown": {
+          "hours": "5 mins",
+          "percent": 5.83
+        },
+        "Text": {
+          "hours": "2 mins",
+          "percent": 2.41
+        }
+      }
     }
   ]
 }
