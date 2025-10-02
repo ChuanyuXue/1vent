@@ -9636,6 +9636,13 @@
           "percent": 100.0
         }
       }
+    },
+    {
+      "date": "2025-10-01",
+      "weekday": "Wednesday",
+      "total_hours": 0.0,
+      "categories": {},
+      "languages": {}
     }
   ]
 }
