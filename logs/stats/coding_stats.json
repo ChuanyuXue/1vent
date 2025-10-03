@@ -9643,6 +9643,28 @@
       "total_hours": 0.0,
       "categories": {},
       "languages": {}
+    },
+    {
+      "date": "2025-10-02",
+      "weekday": "Thursday",
+      "total_hours": 0.67,
+      "categories": {
+        "Coding": "0.67"
+      },
+      "languages": {
+        "Other": {
+          "hours": "27 mins",
+          "percent": 66.7
+        },
+        "TeX": {
+          "hours": "11 mins",
+          "percent": 29.02
+        },
+        "C++": {
+          "hours": "1 min",
+          "percent": 4.29
+        }
+      }
     }
   ]
 }
