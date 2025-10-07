@@ -9750,6 +9750,42 @@
           "percent": 0.1
         }
       }
+    },
+    {
+      "date": "2025-10-06",
+      "weekday": "Monday",
+      "total_hours": 2.63,
+      "categories": {
+        "Coding": "2.53",
+        "Writing Tests": "0.08",
+        "Writing Docs": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "59 mins",
+          "percent": 37.76
+        },
+        "C++": {
+          "hours": "55 mins",
+          "percent": 34.98
+        },
+        "TeX": {
+          "hours": "32 mins",
+          "percent": 20.3
+        },
+        "Python": {
+          "hours": "5 mins",
+          "percent": 3.6
+        },
+        "Text": {
+          "hours": "5 mins",
+          "percent": 3.32
+        },
+        "Markdown": {
+          "hours": "3 secs",
+          "percent": 0.04
+        }
+      }
     }
   ]
 }
