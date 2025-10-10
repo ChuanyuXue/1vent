@@ -9818,6 +9818,29 @@
           "percent": 100.0
         }
       }
+    },
+    {
+      "date": "2025-10-09",
+      "weekday": "Thursday",
+      "total_hours": 1.27,
+      "categories": {
+        "Coding": "1.20",
+        "Writing Tests": "0.07"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr 11 mins",
+          "percent": 93.34
+        },
+        "Markdown": {
+          "hours": "4 mins",
+          "percent": 5.32
+        },
+        "TeX": {
+          "hours": "1 min",
+          "percent": 1.34
+        }
+      }
     }
   ]
 }
