@@ -9841,6 +9841,26 @@
           "percent": 1.34
         }
       }
+    },
+    {
+      "date": "2025-10-10",
+      "weekday": "Friday",
+      "total_hours": 2.05,
+      "categories": {
+        "Coding": "1.95",
+        "Writing Tests": "0.10",
+        "Building": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "1 hr 19 mins",
+          "percent": 64.05
+        },
+        "Swift": {
+          "hours": "44 mins",
+          "percent": 35.94
+        }
+      }
     }
   ]
 }
