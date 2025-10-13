@@ -9880,6 +9880,33 @@
           "percent": 18.03
         }
       }
+    },
+    {
+      "date": "2025-10-12",
+      "weekday": "Sunday",
+      "total_hours": 8.57,
+      "categories": {
+        "Coding": "8.42",
+        "Writing Tests": "0.15"
+      },
+      "languages": {
+        "Other": {
+          "hours": "7 hrs 23 mins",
+          "percent": 86.28
+        },
+        "Swift": {
+          "hours": "54 mins",
+          "percent": 10.57
+        },
+        "C++": {
+          "hours": "9 mins",
+          "percent": 1.76
+        },
+        "Text": {
+          "hours": "7 mins",
+          "percent": 1.4
+        }
+      }
     }
   ]
 }
