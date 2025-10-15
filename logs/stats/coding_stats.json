@@ -9929,6 +9929,32 @@
           "percent": 13.85
         }
       }
+    },
+    {
+      "date": "2025-10-14",
+      "weekday": "Tuesday",
+      "total_hours": 3.52,
+      "categories": {
+        "Coding": "3.52"
+      },
+      "languages": {
+        "Other": {
+          "hours": "3 hrs 31 mins",
+          "percent": 99.9
+        },
+        "TeX": {
+          "hours": "8 secs",
+          "percent": 0.07
+        },
+        "YAML": {
+          "hours": "2 secs",
+          "percent": 0.02
+        },
+        "Groff": {
+          "hours": "1 sec",
+          "percent": 0.02
+        }
+      }
     }
   ]
 }
