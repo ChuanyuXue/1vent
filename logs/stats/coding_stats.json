@@ -9955,6 +9955,28 @@
           "percent": 0.02
         }
       }
+    },
+    {
+      "date": "2025-10-15",
+      "weekday": "Wednesday",
+      "total_hours": 4.75,
+      "categories": {
+        "Coding": "4.75"
+      },
+      "languages": {
+        "TeX": {
+          "hours": "3 hrs 15 mins",
+          "percent": 68.5
+        },
+        "Other": {
+          "hours": "1 hr 29 mins",
+          "percent": 31.3
+        },
+        "Bash": {
+          "hours": "32 secs",
+          "percent": 0.19
+        }
+      }
     }
   ]
 }
