@@ -10174,6 +10174,33 @@
           "percent": 100.0
         }
       }
+    },
+    {
+      "date": "2025-10-27",
+      "weekday": "Monday",
+      "total_hours": 4.35,
+      "categories": {
+        "Coding": "4.35",
+        "Writing Docs": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "3 hrs 37 mins",
+          "percent": 83.3
+        },
+        "C++": {
+          "hours": "28 mins",
+          "percent": 10.96
+        },
+        "Text": {
+          "hours": "14 mins",
+          "percent": 5.66
+        },
+        "Markdown": {
+          "hours": "11 secs",
+          "percent": 0.07
+        }
+      }
     }
   ]
 }
