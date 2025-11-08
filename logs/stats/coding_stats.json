@@ -10359,6 +10359,36 @@
           "percent": 100.0
         }
       }
+    },
+    {
+      "date": "2025-11-07",
+      "weekday": "Friday",
+      "total_hours": 4.25,
+      "categories": {
+        "Coding": "4.13",
+        "Writing Tests": "0.07",
+        "Writing Docs": "0.02",
+        "AI Coding": "0.00",
+        "Building": "0.00"
+      },
+      "languages": {
+        "Other": {
+          "hours": "2 hrs 9 mins",
+          "percent": 50.58
+        },
+        "Swift": {
+          "hours": "2 hrs",
+          "percent": 47.41
+        },
+        "TeX": {
+          "hours": "3 mins",
+          "percent": 1.3
+        },
+        "Markdown": {
+          "hours": "1 min",
+          "percent": 0.72
+        }
+      }
     }
   ]
 }
